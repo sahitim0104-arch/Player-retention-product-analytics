@@ -103,3 +103,32 @@ This project uses a **synthetic dataset created for educational and portfolio pu
 * `screenshots/` — dashboard screenshots
 * `case_study.pdf` — project analysis and recommendations
 
+## Dashboard Preview
+
+The Power BI dashboard summarizes player acquisition, onboarding completion, retention, and churn.
+
+![Player Retention Dashboard](dashboard_preview.png)
+
+## Key Insights
+
+- Overall D7 retention was approximately 48%.
+- Players who completed onboarding showed substantially higher D7 retention than players who did not.
+- Approximately 73.6% of players completed onboarding, while 26.4% dropped off before completion.
+- D7 retention varied across acquisition channels, indicating opportunities to optimize acquisition quality and onboarding experiences.
+- Overall churn was approximately 45%.
+
+## Product Recommendations
+
+1. Reduce friction in the onboarding journey.
+2. Improve progression feedback and early-player rewards.
+3. Identify the onboarding stage with the highest drop-off.
+4. Test a simplified onboarding experience through an A/B test.
+
+### Proposed A/B Test
+
+**Control:** Existing onboarding experience  
+**Variant:** Simplified onboarding with clearer progression feedback and improved early rewards
+
+**Primary metric:** Onboarding completion rate
+
+**Secondary metrics:** D1 retention, D7 retention, session frequency, and mission completion.
