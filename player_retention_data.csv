@@ -1,0 +1,1001 @@
+Player_ID,Age,Country,Platform,Acquisition_Channel,Onboarding_Completed,Sessions,Avg_Session_Minutes,Missions_Completed,Tutorial_Mission_1,Tutorial_Mission_2,Tutorial_Mission_3,Days_Active,Current_Level,Rewards_Claimed,D1_Retention,D7_Retention,D30_Retention,Purchases,Revenue,Churn
+P0001,24,India,Android,Paid Ads,No,5,33.1,9,Not Completed,Not Completed,Not Completed,3,17,3,No,No,No,1,14.92,Yes
+P0002,37,India,Android,Paid Ads,No,9,28.4,7,Not Completed,Not Completed,Not Completed,6,14,2,No,No,No,2,23.82,Yes
+P0003,32,UK,Android,Social,Yes,8,29.4,6,Completed,Completed,Completed,4,10,7,Yes,Yes,Yes,0,0.0,No
+P0004,28,US,iOS,Social,Yes,5,21.4,8,Completed,Not Completed,Completed,3,13,8,Yes,Yes,No,0,0.0,No
+P0005,25,Canada,Android,Organic,No,9,9.8,12,Not Completed,Not Completed,Not Completed,4,20,3,No,No,No,2,34.78,Yes
+P0006,38,India,Android,Organic,Yes,14,18.8,5,Completed,Completed,Completed,7,13,7,Yes,Yes,Yes,1,6.3,No
+P0007,24,Canada,iOS,Organic,Yes,6,20.2,3,Completed,Completed,Completed,4,6,2,Yes,No,No,2,24.0,Yes
+P0008,36,India,iOS,Organic,Yes,5,18.5,4,Completed,Completed,Completed,2,9,4,Yes,Yes,No,2,33.84,No
+P0009,40,India,iOS,Social,Yes,10,22.4,10,Completed,Not Completed,Completed,3,17,3,Yes,Yes,Yes,0,0.0,No
+P0010,28,India,Android,Paid Ads,Yes,5,25.1,6,Completed,Completed,Completed,2,15,6,Yes,Yes,Yes,2,14.35,No
+P0011,28,Canada,iOS,Social,No,7,28.0,7,Not Completed,Not Completed,Not Completed,2,12,5,No,No,No,1,3.87,Yes
+P0012,38,UK,Android,Organic,Yes,9,20.1,4,Completed,Completed,Completed,4,9,2,Yes,No,No,0,0.0,Yes
+P0013,21,US,Android,Referral,Yes,12,8.7,8,Completed,Completed,Not Completed,8,13,12,Yes,Yes,No,0,0.0,No
+P0014,25,US,Android,Referral,Yes,9,18.6,5,Completed,Completed,Completed,5,7,1,Yes,Yes,No,0,0.0,No
+P0015,20,Germany,iOS,Paid Ads,Yes,5,22.3,2,Completed,Completed,Completed,3,5,4,Yes,Yes,Yes,0,0.0,Yes
+P0016,39,US,Android,Referral,Yes,7,30.6,3,Completed,Completed,Completed,2,9,6,Yes,Yes,Yes,0,0.0,No
+P0017,38,Canada,Android,Social,No,10,18.0,3,Not Completed,Not Completed,Not Completed,7,8,4,Yes,No,No,0,0.0,Yes
+P0018,19,US,Android,Referral,No,10,25.6,6,Completed,Not Completed,Not Completed,5,7,7,No,No,No,0,0.0,Yes
+P0019,29,US,Android,Organic,Yes,7,24.0,2,Completed,Completed,Completed,2,6,5,Yes,No,No,1,12.62,No
+P0020,23,US,iOS,Social,No,11,22.3,5,Completed,Not Completed,Not Completed,6,6,4,Yes,No,No,1,12.36,No
+P0021,19,India,iOS,Organic,No,7,28.5,4,Not Completed,Not Completed,Not Completed,5,10,7,Yes,Yes,No,3,11.96,No
+P0022,38,UK,iOS,Organic,No,5,17.4,6,Completed,Not Completed,Not Completed,1,12,7,Yes,No,No,2,16.67,Yes
+P0023,18,US,Android,Organic,Yes,5,18.0,4,Completed,Completed,Completed,3,8,2,Yes,Yes,Yes,0,0.0,Yes
+P0024,29,India,Android,Paid Ads,Yes,9,21.9,5,Completed,Completed,Completed,6,11,5,Yes,Yes,Yes,1,5.15,No
+P0025,39,Germany,Android,Paid Ads,Yes,10,17.5,5,Completed,Completed,Completed,3,9,3,Yes,Yes,Yes,0,0.0,No
+P0026,29,US,Android,Social,Yes,11,25.6,6,Completed,Completed,Completed,6,11,4,Yes,Yes,No,1,4.19,No
+P0027,34,US,Android,Organic,Yes,14,17.0,3,Completed,Completed,Completed,6,4,5,Yes,Yes,No,2,10.09,Yes
+P0028,27,Germany,iOS,Paid Ads,Yes,12,23.6,8,Completed,Not Completed,Completed,5,13,7,Yes,Yes,No,0,0.0,No
+P0029,33,US,Android,Paid Ads,No,9,21.3,2,Not Completed,Not Completed,Not Completed,5,7,6,Yes,No,No,1,19.02,Yes
+P0030,32,India,Android,Social,No,12,23.5,12,Not Completed,Not Completed,Not Completed,3,17,3,No,No,No,1,7.93,Yes
+P0031,32,Germany,Android,Paid Ads,No,2,18.8,8,Not Completed,Not Completed,Not Completed,1,16,6,No,No,No,0,0.0,Yes
+P0032,36,US,Android,Organic,Yes,15,19.6,6,Completed,Completed,Completed,4,7,3,Yes,Yes,No,0,0.0,No
+P0033,29,India,Android,Organic,Yes,11,22.7,4,Completed,Completed,Completed,4,6,4,Yes,Yes,Yes,2,9.39,No
+P0034,40,India,iOS,Referral,Yes,10,23.4,6,Completed,Completed,Not Completed,5,10,5,Yes,Yes,No,0,0.0,No
+P0035,37,Canada,iOS,Organic,Yes,11,22.0,3,Completed,Completed,Completed,5,7,4,Yes,Yes,Yes,2,37.49,Yes
+P0036,20,US,iOS,Social,Yes,7,33.9,4,Completed,Completed,Completed,3,7,5,Yes,No,No,0,0.0,No
+P0037,22,US,Android,Referral,Yes,13,15.1,5,Completed,Completed,Completed,8,8,4,Yes,Yes,Yes,0,0.0,No
+P0038,36,Germany,Android,Paid Ads,Yes,7,21.6,6,Completed,Completed,Completed,5,13,9,No,No,No,1,19.36,Yes
+P0039,24,Canada,Android,Organic,No,12,11.0,8,Not Completed,Not Completed,Not Completed,8,16,6,Yes,No,No,0,0.0,No
+P0040,38,India,Android,Organic,Yes,8,24.6,4,Completed,Completed,Completed,4,7,1,No,No,No,0,0.0,Yes
+P0041,26,India,iOS,Organic,No,8,14.2,5,Completed,Not Completed,Not Completed,5,9,5,No,No,No,3,18.09,Yes
+P0042,24,India,Android,Paid Ads,Yes,8,20.1,5,Completed,Completed,Completed,5,9,7,Yes,Yes,No,1,5.99,Yes
+P0043,35,UK,Android,Social,Yes,4,19.4,7,Completed,Completed,Completed,2,17,2,Yes,No,No,1,4.14,Yes
+P0044,21,India,Android,Organic,Yes,6,24.0,5,Completed,Completed,Completed,2,10,4,Yes,No,No,3,41.08,No
+P0045,31,US,Android,Referral,Yes,8,18.1,7,Completed,Not Completed,Not Completed,2,16,4,Yes,Yes,No,2,30.87,No
+P0046,35,UK,iOS,Social,Yes,15,17.8,4,Completed,Not Completed,Completed,7,9,2,Yes,Yes,No,1,14.18,No
+P0047,26,Germany,Android,Organic,Yes,10,32.1,12,Completed,Completed,Not Completed,7,20,4,Yes,Yes,No,1,18.64,No
+P0048,38,India,Android,Social,Yes,5,24.0,3,Completed,Completed,Completed,3,5,6,Yes,No,No,0,0.0,Yes
+P0049,19,Canada,Android,Paid Ads,Yes,13,18.1,0,Completed,Completed,Completed,7,4,3,Yes,Yes,Yes,1,7.76,No
+P0050,37,India,Android,Organic,Yes,10,20.2,10,Completed,Not Completed,Completed,3,15,4,Yes,Yes,No,0,0.0,Yes
+P0051,32,Canada,iOS,Organic,No,6,33.5,14,Not Completed,Not Completed,Not Completed,2,22,2,No,No,No,1,6.18,Yes
+P0052,24,India,iOS,Paid Ads,Yes,6,20.4,6,Completed,Completed,Completed,3,12,6,Yes,No,No,0,0.0,Yes
+P0053,29,US,iOS,Social,No,8,17.2,5,Not Completed,Not Completed,Not Completed,5,9,3,No,No,No,2,21.52,Yes
+P0054,25,Canada,iOS,Social,Yes,14,17.2,3,Completed,Completed,Completed,6,6,4,Yes,Yes,No,1,17.02,No
+P0055,32,India,Android,Social,No,11,18.2,3,Not Completed,Not Completed,Not Completed,7,6,4,No,No,No,0,0.0,Yes
+P0056,20,India,iOS,Organic,No,11,17.8,7,Not Completed,Not Completed,Not Completed,3,11,4,No,No,No,0,0.0,Yes
+P0057,31,UK,Android,Organic,Yes,6,13.0,6,Completed,Completed,Not Completed,3,12,4,Yes,Yes,Yes,0,0.0,No
+P0058,34,UK,Android,Social,Yes,8,14.1,5,Completed,Completed,Completed,4,10,6,Yes,Yes,No,0,0.0,Yes
+P0059,21,US,iOS,Organic,No,6,16.2,4,Not Completed,Not Completed,Not Completed,4,5,4,No,No,No,0,0.0,Yes
+P0060,35,UK,Android,Organic,Yes,12,26.1,6,Completed,Not Completed,Completed,3,10,7,Yes,Yes,Yes,1,3.98,No
+P0061,25,US,iOS,Paid Ads,Yes,8,19.3,10,Completed,Completed,Completed,3,16,4,Yes,No,No,1,19.82,Yes
+P0062,21,India,Android,Referral,Yes,10,20.5,3,Completed,Completed,Completed,3,6,3,Yes,Yes,Yes,0,0.0,Yes
+P0063,19,India,iOS,Paid Ads,No,8,30.9,2,Not Completed,Not Completed,Not Completed,5,6,2,No,No,No,1,19.68,Yes
+P0064,23,India,iOS,Referral,No,9,31.1,5,Not Completed,Not Completed,Not Completed,3,8,4,No,No,No,1,10.71,Yes
+P0065,39,Germany,iOS,Organic,Yes,7,20.0,7,Completed,Completed,Completed,2,18,3,Yes,No,No,0,0.0,Yes
+P0066,27,US,iOS,Referral,Yes,3,17.6,7,Completed,Completed,Completed,1,15,1,No,No,No,0,0.0,Yes
+P0067,21,US,iOS,Organic,Yes,7,15.9,10,Completed,Completed,Completed,3,20,4,No,No,No,0,0.0,Yes
+P0068,39,US,Android,Referral,Yes,7,26.8,7,Completed,Completed,Completed,4,10,5,Yes,Yes,No,0,0.0,No
+P0069,35,Germany,Android,Referral,No,13,20.6,8,Not Completed,Not Completed,Not Completed,9,10,5,Yes,Yes,No,0,0.0,Yes
+P0070,29,India,Android,Paid Ads,Yes,6,19.3,8,Completed,Completed,Completed,3,13,4,Yes,Yes,No,0,0.0,No
+P0071,19,US,iOS,Referral,Yes,6,16.3,7,Completed,Not Completed,Completed,4,13,3,Yes,Yes,No,1,8.79,No
+P0072,27,US,Android,Social,Yes,7,16.6,3,Completed,Completed,Completed,4,6,3,Yes,No,No,1,6.7,Yes
+P0073,21,US,iOS,Organic,No,7,24.2,7,Not Completed,Not Completed,Not Completed,3,11,6,Yes,No,No,0,0.0,Yes
+P0074,31,India,Android,Social,Yes,10,12.8,6,Completed,Completed,Not Completed,7,8,1,Yes,Yes,Yes,0,0.0,No
+P0075,33,Germany,Android,Social,Yes,13,29.0,5,Completed,Completed,Completed,7,8,5,Yes,Yes,No,0,0.0,No
+P0076,32,Germany,iOS,Organic,Yes,11,18.3,9,Completed,Not Completed,Not Completed,5,15,4,Yes,Yes,Yes,0,0.0,No
+P0077,25,US,Android,Paid Ads,Yes,6,21.0,4,Completed,Completed,Not Completed,3,7,6,Yes,Yes,No,0,0.0,No
+P0078,31,UK,Android,Referral,Yes,11,12.6,9,Completed,Completed,Completed,5,14,6,Yes,Yes,No,0,0.0,Yes
+P0079,40,Germany,Android,Organic,Yes,13,21.9,5,Completed,Completed,Completed,4,8,8,Yes,Yes,No,0,0.0,No
+P0080,25,UK,iOS,Paid Ads,Yes,5,19.7,5,Completed,Completed,Completed,3,13,4,Yes,Yes,No,2,29.82,Yes
+P0081,38,India,iOS,Referral,No,9,21.6,9,Not Completed,Not Completed,Not Completed,6,17,1,No,No,No,0,0.0,Yes
+P0082,33,US,Android,Referral,No,9,32.3,7,Not Completed,Not Completed,Not Completed,5,14,7,No,No,No,2,9.88,Yes
+P0083,30,US,Android,Referral,No,8,23.2,4,Not Completed,Not Completed,Not Completed,3,9,9,No,No,No,0,0.0,Yes
+P0084,35,US,Android,Social,Yes,7,16.4,9,Completed,Completed,Not Completed,5,13,2,No,No,No,0,0.0,Yes
+P0085,32,UK,iOS,Referral,No,7,17.0,6,Not Completed,Not Completed,Not Completed,2,12,5,Yes,No,No,2,13.76,Yes
+P0086,38,Germany,iOS,Paid Ads,Yes,9,26.2,4,Completed,Completed,Completed,4,11,6,No,No,No,1,13.18,Yes
+P0087,30,Germany,Android,Organic,Yes,10,31.1,5,Completed,Completed,Completed,4,12,2,Yes,Yes,No,0,0.0,Yes
+P0088,26,US,Android,Social,Yes,12,24.0,4,Completed,Completed,Completed,3,9,10,Yes,Yes,Yes,0,0.0,No
+P0089,32,India,Android,Paid Ads,Yes,12,26.8,10,Completed,Completed,Completed,5,17,5,Yes,Yes,No,0,0.0,No
+P0090,30,Germany,iOS,Organic,Yes,7,26.3,5,Completed,Not Completed,Completed,4,9,2,Yes,No,No,2,20.35,Yes
+P0091,18,Canada,iOS,Paid Ads,Yes,9,31.9,7,Completed,Completed,Not Completed,6,14,5,Yes,Yes,No,0,0.0,No
+P0092,24,India,Android,Paid Ads,Yes,11,8.4,6,Completed,Completed,Completed,8,8,7,Yes,Yes,Yes,0,0.0,No
+P0093,26,Germany,Android,Organic,Yes,7,26.7,3,Completed,Completed,Completed,4,8,5,Yes,Yes,Yes,0,0.0,No
+P0094,18,Canada,Android,Social,Yes,8,28.9,6,Completed,Completed,Completed,4,10,5,No,No,No,0,0.0,Yes
+P0095,29,US,iOS,Paid Ads,Yes,7,12.6,8,Completed,Completed,Completed,4,18,3,Yes,No,No,1,9.37,No
+P0096,25,US,Android,Social,Yes,9,15.8,9,Completed,Completed,Completed,6,15,7,Yes,Yes,Yes,1,14.78,No
+P0097,28,US,iOS,Organic,No,9,16.0,13,Not Completed,Not Completed,Not Completed,4,22,2,No,No,No,0,0.0,Yes
+P0098,36,India,iOS,Organic,No,14,16.9,5,Not Completed,Not Completed,Not Completed,8,10,11,Yes,Yes,No,1,7.85,Yes
+P0099,34,India,Android,Social,Yes,6,18.6,7,Completed,Completed,Completed,3,11,6,Yes,Yes,No,2,36.28,No
+P0100,25,Canada,Android,Referral,Yes,10,23.7,6,Completed,Completed,Completed,4,12,5,Yes,Yes,No,0,0.0,No
+P0101,20,India,Android,Organic,Yes,9,28.1,7,Completed,Completed,Not Completed,4,13,6,Yes,Yes,No,1,12.64,No
+P0102,20,India,iOS,Paid Ads,No,12,29.6,4,Not Completed,Not Completed,Not Completed,7,10,4,Yes,Yes,Yes,1,3.92,No
+P0103,18,US,iOS,Organic,Yes,8,16.1,5,Completed,Completed,Completed,5,11,4,Yes,Yes,Yes,1,5.22,No
+P0104,22,US,iOS,Organic,Yes,9,16.1,10,Completed,Completed,Completed,4,17,5,Yes,Yes,Yes,1,2.65,No
+P0105,27,Germany,Android,Paid Ads,Yes,5,31.2,1,Completed,Completed,Completed,3,2,5,Yes,No,No,0,0.0,Yes
+P0106,24,India,Android,Paid Ads,Yes,8,26.5,7,Completed,Completed,Completed,5,11,1,Yes,Yes,Yes,0,0.0,No
+P0107,26,India,iOS,Organic,Yes,9,22.6,7,Completed,Completed,Completed,6,16,7,Yes,Yes,Yes,1,17.73,No
+P0108,24,UK,iOS,Social,No,13,25.3,4,Not Completed,Not Completed,Not Completed,5,8,9,Yes,No,No,0,0.0,Yes
+P0109,26,US,Android,Organic,Yes,9,21.8,3,Completed,Completed,Completed,3,11,6,Yes,No,No,1,17.5,No
+P0110,25,India,iOS,Social,Yes,8,25.7,4,Completed,Completed,Not Completed,4,6,6,Yes,Yes,Yes,1,12.7,No
+P0111,29,US,iOS,Paid Ads,No,10,19.6,1,Not Completed,Not Completed,Not Completed,4,8,3,Yes,No,No,1,8.64,Yes
+P0112,19,India,iOS,Organic,No,10,23.9,5,Completed,Not Completed,Not Completed,3,8,6,Yes,Yes,No,0,0.0,No
+P0113,18,India,iOS,Organic,Yes,11,11.4,4,Completed,Completed,Completed,4,7,8,Yes,Yes,No,1,13.75,No
+P0114,33,US,iOS,Social,Yes,5,17.2,9,Completed,Completed,Completed,3,16,8,Yes,No,No,1,5.47,Yes
+P0115,40,US,iOS,Referral,Yes,6,17.3,8,Completed,Completed,Not Completed,4,16,8,Yes,Yes,Yes,0,0.0,No
+P0116,40,Germany,Android,Referral,No,11,19.4,4,Completed,Not Completed,Not Completed,5,9,6,Yes,No,No,1,16.86,Yes
+P0117,22,US,Android,Organic,Yes,14,15.5,8,Completed,Completed,Completed,6,10,4,Yes,Yes,Yes,2,8.65,No
+P0118,20,US,iOS,Paid Ads,No,14,18.3,1,Completed,Not Completed,Not Completed,7,2,3,No,No,No,0,0.0,Yes
+P0119,29,US,Android,Social,Yes,8,11.4,3,Completed,Completed,Completed,3,4,5,Yes,Yes,No,1,6.04,No
+P0120,25,India,Android,Social,Yes,9,25.8,6,Completed,Completed,Completed,4,8,5,Yes,No,No,1,11.93,No
+P0121,39,UK,Android,Paid Ads,Yes,7,21.4,8,Completed,Completed,Completed,2,14,3,Yes,No,No,0,0.0,Yes
+P0122,20,India,Android,Referral,Yes,11,10.1,6,Completed,Completed,Completed,5,7,4,Yes,Yes,No,0,0.0,No
+P0123,18,Germany,iOS,Referral,Yes,9,16.2,7,Completed,Not Completed,Completed,4,14,6,Yes,Yes,No,0,0.0,No
+P0124,20,India,iOS,Social,Yes,6,24.4,5,Completed,Completed,Completed,3,11,4,No,No,No,0,0.0,Yes
+P0125,22,US,Android,Social,Yes,11,18.2,4,Completed,Completed,Completed,6,11,6,Yes,Yes,No,1,7.0,No
+P0126,32,India,Android,Paid Ads,No,14,17.1,4,Not Completed,Not Completed,Not Completed,6,6,3,Yes,Yes,No,1,19.64,No
+P0127,31,Germany,Android,Organic,Yes,4,21.5,7,Completed,Completed,Completed,1,11,3,No,No,No,0,0.0,Yes
+P0128,20,US,iOS,Social,Yes,11,24.4,4,Completed,Completed,Completed,4,10,4,Yes,Yes,No,0,0.0,No
+P0129,18,US,iOS,Social,Yes,2,11.9,4,Completed,Completed,Completed,1,10,5,No,No,No,0,0.0,No
+P0130,22,India,Android,Paid Ads,Yes,6,25.9,8,Completed,Completed,Completed,2,17,3,Yes,No,No,0,0.0,Yes
+P0131,40,UK,iOS,Organic,Yes,11,16.4,6,Completed,Completed,Completed,3,13,9,Yes,Yes,Yes,1,6.3,No
+P0132,31,India,iOS,Organic,Yes,14,21.9,6,Completed,Completed,Completed,8,11,3,Yes,No,No,1,11.19,Yes
+P0133,24,Germany,iOS,Referral,No,12,21.8,5,Not Completed,Not Completed,Not Completed,7,9,4,Yes,Yes,No,1,14.26,No
+P0134,26,India,iOS,Organic,Yes,7,18.3,6,Completed,Completed,Completed,3,12,5,Yes,No,No,1,10.28,No
+P0135,32,India,Android,Social,Yes,10,14.8,6,Completed,Completed,Not Completed,5,10,1,Yes,Yes,No,0,0.0,No
+P0136,32,India,iOS,Organic,Yes,12,20.0,4,Completed,Completed,Completed,8,8,2,Yes,Yes,No,1,2.32,Yes
+P0137,27,US,Android,Organic,Yes,9,33.4,2,Completed,Completed,Not Completed,6,4,5,Yes,Yes,Yes,0,0.0,Yes
+P0138,30,US,iOS,Organic,Yes,7,12.5,6,Completed,Completed,Completed,3,12,6,Yes,No,No,0,0.0,No
+P0139,36,India,iOS,Organic,No,5,33.8,6,Not Completed,Not Completed,Not Completed,3,13,3,No,No,No,1,18.31,Yes
+P0140,24,Canada,iOS,Referral,No,11,20.2,4,Not Completed,Not Completed,Not Completed,6,7,5,Yes,No,No,0,0.0,Yes
+P0141,34,US,iOS,Organic,Yes,14,22.2,4,Completed,Not Completed,Completed,10,7,5,Yes,Yes,Yes,1,9.1,No
+P0142,37,US,Android,Referral,Yes,7,14.4,4,Completed,Completed,Completed,3,8,6,No,No,No,0,0.0,Yes
+P0143,21,US,Android,Social,Yes,7,16.6,8,Completed,Completed,Completed,4,12,1,Yes,No,No,1,16.68,Yes
+P0144,22,US,iOS,Social,Yes,9,18.5,5,Completed,Completed,Completed,5,11,6,Yes,Yes,Yes,0,0.0,Yes
+P0145,40,US,iOS,Social,Yes,9,14.7,5,Completed,Completed,Completed,4,10,5,No,No,No,1,5.26,Yes
+P0146,24,India,Android,Social,Yes,11,20.5,4,Completed,Completed,Completed,7,8,7,Yes,No,No,0,0.0,No
+P0147,30,India,Android,Paid Ads,Yes,8,19.2,5,Completed,Completed,Completed,3,10,2,Yes,No,No,0,0.0,Yes
+P0148,32,Canada,Android,Organic,Yes,9,35.0,5,Completed,Completed,Completed,3,7,2,Yes,No,No,1,8.56,No
+P0149,28,Germany,iOS,Social,Yes,9,13.8,6,Completed,Completed,Completed,4,14,3,Yes,Yes,No,3,24.83,No
+P0150,21,US,iOS,Referral,Yes,14,22.7,7,Completed,Completed,Completed,9,11,2,Yes,Yes,No,1,4.37,No
+P0151,30,India,Android,Referral,Yes,9,23.7,8,Completed,Completed,Not Completed,4,13,4,Yes,No,No,0,0.0,Yes
+P0152,24,US,Android,Referral,Yes,7,14.5,8,Completed,Completed,Completed,4,16,3,Yes,Yes,No,0,0.0,Yes
+P0153,36,US,iOS,Social,No,10,26.8,12,Not Completed,Not Completed,Not Completed,5,21,5,Yes,No,No,0,0.0,Yes
+P0154,39,India,iOS,Paid Ads,Yes,7,19.2,4,Completed,Completed,Not Completed,2,12,5,Yes,Yes,Yes,0,0.0,No
+P0155,19,India,Android,Social,Yes,8,5.0,2,Completed,Completed,Completed,3,3,5,Yes,No,No,2,27.75,No
+P0156,27,UK,iOS,Social,Yes,7,26.6,4,Completed,Completed,Completed,4,6,7,Yes,Yes,Yes,1,8.4,No
+P0157,30,UK,Android,Organic,No,13,14.2,3,Not Completed,Not Completed,Not Completed,9,4,4,Yes,No,No,1,4.63,Yes
+P0158,38,India,Android,Social,Yes,5,14.7,11,Completed,Completed,Completed,2,19,4,Yes,Yes,No,0,0.0,No
+P0159,23,India,iOS,Organic,Yes,8,26.8,8,Completed,Not Completed,Completed,3,13,3,Yes,Yes,Yes,0,0.0,No
+P0160,29,India,iOS,Organic,Yes,7,19.6,8,Completed,Completed,Completed,2,13,6,Yes,No,No,1,14.26,Yes
+P0161,29,UK,iOS,Referral,No,11,28.4,6,Completed,Not Completed,Not Completed,4,11,4,No,No,No,0,0.0,Yes
+P0162,37,India,iOS,Organic,No,4,30.5,11,Not Completed,Not Completed,Not Completed,2,16,5,No,No,No,4,9.81,Yes
+P0163,28,India,iOS,Organic,Yes,8,17.5,3,Completed,Completed,Completed,4,10,5,Yes,No,No,1,15.05,No
+P0164,40,Canada,Android,Organic,No,7,27.6,3,Not Completed,Not Completed,Not Completed,2,5,7,No,No,No,2,39.96,Yes
+P0165,24,India,Android,Referral,No,8,16.7,2,Completed,Not Completed,Not Completed,3,4,3,Yes,Yes,No,0,0.0,No
+P0166,18,UK,Android,Social,No,6,37.6,6,Not Completed,Not Completed,Not Completed,4,6,7,No,No,No,0,0.0,Yes
+P0167,18,India,Android,Social,Yes,11,17.1,4,Completed,Completed,Not Completed,8,5,3,Yes,Yes,Yes,3,53.22,No
+P0168,37,India,iOS,Paid Ads,Yes,9,29.2,14,Completed,Not Completed,Completed,4,22,6,Yes,No,No,0,0.0,No
+P0169,30,India,iOS,Paid Ads,Yes,7,27.9,5,Completed,Completed,Not Completed,4,9,6,Yes,No,No,1,15.49,Yes
+P0170,26,UK,Android,Organic,No,8,24.2,5,Completed,Not Completed,Not Completed,3,11,3,Yes,No,No,0,0.0,Yes
+P0171,20,Canada,Android,Paid Ads,Yes,7,17.3,8,Completed,Not Completed,Completed,5,11,5,Yes,Yes,No,1,2.69,No
+P0172,24,Canada,iOS,Paid Ads,Yes,15,20.9,8,Completed,Completed,Completed,8,15,4,Yes,Yes,Yes,1,5.84,No
+P0173,23,US,Android,Paid Ads,Yes,10,6.9,7,Completed,Completed,Completed,6,14,7,Yes,Yes,No,1,3.42,Yes
+P0174,25,UK,iOS,Organic,No,8,23.6,6,Completed,Not Completed,Not Completed,2,12,6,No,No,No,1,3.92,Yes
+P0175,26,India,iOS,Referral,No,9,24.4,10,Not Completed,Not Completed,Not Completed,5,19,4,Yes,Yes,No,1,2.28,No
+P0176,22,India,iOS,Social,Yes,9,22.9,4,Completed,Not Completed,Completed,4,6,3,Yes,No,No,0,0.0,Yes
+P0177,18,Germany,Android,Organic,No,13,5.0,9,Not Completed,Not Completed,Not Completed,5,17,4,Yes,Yes,Yes,1,5.22,No
+P0178,36,India,Android,Social,Yes,11,13.1,8,Completed,Completed,Completed,4,18,3,Yes,Yes,Yes,1,17.4,No
+P0179,27,India,iOS,Organic,No,12,16.8,6,Completed,Not Completed,Not Completed,6,14,10,Yes,Yes,No,2,31.0,No
+P0180,29,India,iOS,Organic,Yes,10,24.0,6,Completed,Completed,Not Completed,6,15,4,Yes,Yes,Yes,0,0.0,No
+P0181,32,India,Android,Paid Ads,Yes,6,24.0,10,Completed,Completed,Completed,2,17,1,Yes,Yes,Yes,1,10.8,No
+P0182,39,India,iOS,Organic,No,7,20.8,8,Not Completed,Not Completed,Not Completed,4,13,3,No,No,No,0,0.0,Yes
+P0183,26,US,Android,Social,Yes,9,26.4,9,Completed,Completed,Completed,3,10,4,Yes,No,No,0,0.0,No
+P0184,37,US,iOS,Social,No,7,14.8,4,Not Completed,Not Completed,Not Completed,2,6,4,No,No,No,0,0.0,Yes
+P0185,34,Germany,Android,Organic,Yes,11,26.3,4,Completed,Not Completed,Completed,6,7,4,Yes,Yes,Yes,1,16.08,No
+P0186,34,Canada,iOS,Referral,Yes,11,25.3,8,Completed,Completed,Completed,4,13,5,Yes,Yes,No,0,0.0,No
+P0187,37,India,Android,Organic,Yes,8,24.6,6,Completed,Completed,Completed,4,9,5,No,No,No,3,44.26,Yes
+P0188,29,India,Android,Organic,Yes,9,20.7,4,Completed,Completed,Completed,4,9,7,Yes,No,No,0,0.0,No
+P0189,24,US,Android,Organic,Yes,13,34.8,4,Completed,Completed,Completed,7,8,5,Yes,No,No,0,0.0,No
+P0190,19,US,Android,Organic,Yes,9,25.5,6,Completed,Completed,Completed,4,11,11,Yes,Yes,Yes,0,0.0,No
+P0191,20,India,iOS,Organic,Yes,9,15.2,10,Completed,Completed,Completed,6,19,4,Yes,Yes,No,0,0.0,No
+P0192,34,US,iOS,Paid Ads,Yes,13,23.7,6,Completed,Completed,Completed,5,10,3,Yes,Yes,No,4,44.19,No
+P0193,22,US,Android,Referral,No,6,27.3,5,Not Completed,Not Completed,Not Completed,3,12,4,Yes,Yes,No,2,21.13,No
+P0194,34,US,Android,Organic,No,7,17.9,2,Not Completed,Not Completed,Not Completed,3,3,0,Yes,No,No,0,0.0,Yes
+P0195,34,US,iOS,Paid Ads,Yes,10,29.6,8,Completed,Completed,Completed,5,13,6,Yes,Yes,Yes,0,0.0,No
+P0196,34,India,iOS,Paid Ads,No,9,24.7,6,Not Completed,Not Completed,Not Completed,4,12,7,Yes,Yes,Yes,1,5.29,No
+P0197,19,Germany,iOS,Paid Ads,Yes,14,5.6,5,Completed,Completed,Completed,6,6,1,Yes,Yes,Yes,2,7.5,No
+P0198,19,UK,Android,Social,Yes,6,24.1,10,Completed,Not Completed,Completed,3,16,5,Yes,No,No,0,0.0,Yes
+P0199,39,India,Android,Organic,No,9,19.2,2,Not Completed,Not Completed,Not Completed,3,6,6,No,No,No,1,6.74,Yes
+P0200,40,Canada,iOS,Organic,No,5,25.8,10,Not Completed,Not Completed,Not Completed,1,16,4,No,No,No,1,6.41,Yes
+P0201,22,US,Android,Paid Ads,Yes,4,28.6,1,Completed,Completed,Completed,1,1,3,No,No,No,2,11.59,Yes
+P0202,18,Germany,iOS,Paid Ads,No,14,23.4,6,Not Completed,Not Completed,Not Completed,8,9,3,Yes,No,No,2,30.48,No
+P0203,18,Canada,Android,Organic,Yes,7,33.7,4,Completed,Completed,Completed,4,5,3,No,No,No,1,16.73,Yes
+P0204,36,US,iOS,Social,No,8,20.7,7,Not Completed,Not Completed,Not Completed,3,13,4,No,No,No,0,0.0,No
+P0205,19,India,Android,Referral,Yes,11,26.4,3,Completed,Completed,Completed,5,7,6,Yes,Yes,Yes,0,0.0,No
+P0206,38,India,iOS,Paid Ads,Yes,8,27.6,4,Completed,Not Completed,Completed,2,5,3,Yes,Yes,No,1,17.19,Yes
+P0207,29,US,Android,Referral,Yes,9,21.3,5,Completed,Completed,Completed,3,6,4,Yes,Yes,Yes,1,13.23,No
+P0208,23,US,iOS,Paid Ads,Yes,9,27.5,5,Completed,Completed,Completed,5,8,6,Yes,Yes,Yes,1,7.28,No
+P0209,40,India,Android,Social,Yes,8,17.8,4,Completed,Not Completed,Completed,4,8,5,Yes,Yes,No,1,14.85,No
+P0210,21,India,iOS,Social,No,9,19.0,3,Completed,Not Completed,Not Completed,3,5,7,Yes,Yes,Yes,0,0.0,Yes
+P0211,40,Canada,iOS,Paid Ads,Yes,9,12.8,7,Completed,Completed,Completed,3,13,5,Yes,Yes,No,1,12.56,No
+P0212,28,Germany,iOS,Organic,Yes,10,23.7,9,Completed,Completed,Completed,6,16,1,Yes,Yes,Yes,1,19.87,No
+P0213,34,US,iOS,Social,Yes,7,24.3,11,Completed,Completed,Completed,2,20,8,Yes,No,No,0,0.0,No
+P0214,23,India,iOS,Paid Ads,Yes,9,30.3,7,Completed,Completed,Completed,4,10,6,Yes,Yes,Yes,0,0.0,No
+P0215,22,India,iOS,Organic,Yes,12,27.5,9,Completed,Completed,Completed,7,15,4,Yes,Yes,Yes,1,7.77,No
+P0216,37,India,Android,Paid Ads,Yes,13,20.0,5,Completed,Completed,Not Completed,7,12,10,Yes,Yes,Yes,0,0.0,No
+P0217,19,Germany,iOS,Social,Yes,8,13.8,7,Completed,Completed,Completed,4,11,3,Yes,Yes,No,1,10.28,No
+P0218,23,India,Android,Referral,Yes,10,25.0,7,Completed,Completed,Completed,7,11,5,Yes,No,No,2,32.19,Yes
+P0219,39,US,Android,Organic,Yes,7,29.8,4,Completed,Not Completed,Completed,2,7,6,Yes,Yes,No,2,6.2,No
+P0220,28,India,Android,Organic,No,10,27.3,6,Not Completed,Not Completed,Not Completed,6,10,5,No,No,No,2,26.58,Yes
+P0221,33,US,Android,Paid Ads,No,6,29.6,4,Not Completed,Not Completed,Not Completed,2,8,7,No,No,No,1,15.69,Yes
+P0222,33,UK,iOS,Organic,Yes,14,20.5,5,Completed,Not Completed,Completed,7,8,6,Yes,Yes,Yes,0,0.0,No
+P0223,18,Canada,iOS,Paid Ads,Yes,13,18.7,6,Completed,Completed,Completed,8,7,3,Yes,Yes,Yes,2,7.79,No
+P0224,26,India,iOS,Paid Ads,Yes,9,16.8,3,Completed,Completed,Completed,4,9,8,Yes,Yes,No,0,0.0,No
+P0225,23,India,Android,Organic,Yes,9,21.6,5,Completed,Completed,Completed,5,11,6,Yes,Yes,No,0,0.0,No
+P0226,33,India,Android,Social,Yes,6,21.4,7,Completed,Completed,Completed,4,13,7,Yes,No,No,0,0.0,No
+P0227,20,Germany,Android,Social,Yes,10,23.4,9,Completed,Completed,Completed,3,15,6,Yes,No,No,1,9.59,No
+P0228,37,Germany,Android,Social,Yes,4,21.1,7,Completed,Completed,Completed,2,12,4,Yes,No,No,0,0.0,Yes
+P0229,21,US,Android,Referral,Yes,9,21.1,6,Completed,Completed,Completed,6,9,6,Yes,Yes,No,0,0.0,Yes
+P0230,36,US,Android,Paid Ads,Yes,11,16.6,6,Completed,Completed,Completed,6,7,6,Yes,No,No,0,0.0,Yes
+P0231,20,UK,Android,Paid Ads,No,9,28.6,7,Not Completed,Not Completed,Not Completed,3,16,4,No,No,No,2,16.12,Yes
+P0232,36,India,iOS,Paid Ads,No,14,22.5,3,Not Completed,Not Completed,Not Completed,4,7,3,No,No,No,0,0.0,No
+P0233,37,Germany,iOS,Social,Yes,4,20.8,7,Completed,Completed,Completed,1,9,6,Yes,No,No,0,0.0,Yes
+P0234,24,US,iOS,Referral,Yes,10,16.8,10,Completed,Completed,Completed,3,15,2,Yes,No,No,0,0.0,Yes
+P0235,37,US,iOS,Paid Ads,No,5,12.7,6,Not Completed,Not Completed,Not Completed,2,12,7,No,No,No,1,5.46,Yes
+P0236,26,US,iOS,Paid Ads,No,13,31.2,8,Not Completed,Not Completed,Not Completed,4,15,6,Yes,No,No,0,0.0,Yes
+P0237,18,India,Android,Referral,Yes,9,25.9,5,Completed,Completed,Completed,3,8,2,Yes,Yes,No,4,12.78,No
+P0238,25,India,iOS,Organic,Yes,7,10.6,5,Completed,Completed,Completed,3,7,6,Yes,Yes,No,2,12.89,No
+P0239,24,UK,iOS,Paid Ads,Yes,9,27.3,9,Completed,Completed,Completed,4,14,3,Yes,No,No,1,5.1,No
+P0240,35,India,Android,Organic,Yes,9,28.5,3,Completed,Completed,Completed,5,3,5,Yes,Yes,Yes,0,0.0,No
+P0241,25,US,Android,Organic,Yes,8,22.9,4,Completed,Completed,Completed,5,7,6,Yes,Yes,No,0,0.0,No
+P0242,18,India,iOS,Organic,Yes,10,33.2,11,Completed,Completed,Completed,3,18,3,Yes,No,No,2,21.98,Yes
+P0243,28,US,Android,Referral,Yes,10,23.5,6,Completed,Completed,Completed,3,14,6,Yes,Yes,Yes,0,0.0,No
+P0244,35,India,iOS,Referral,Yes,7,12.1,10,Completed,Completed,Completed,2,16,7,Yes,Yes,No,0,0.0,No
+P0245,40,US,iOS,Paid Ads,No,6,24.6,2,Not Completed,Not Completed,Not Completed,3,6,4,No,No,No,1,8.56,Yes
+P0246,27,UK,Android,Paid Ads,Yes,8,23.7,5,Completed,Completed,Completed,2,13,3,No,No,No,0,0.0,Yes
+P0247,20,India,Android,Social,Yes,9,17.8,3,Completed,Completed,Completed,5,4,9,Yes,No,No,1,6.25,Yes
+P0248,24,US,Android,Referral,Yes,9,26.0,8,Completed,Completed,Completed,3,13,7,Yes,Yes,Yes,0,0.0,No
+P0249,33,US,Android,Social,Yes,8,10.3,7,Completed,Completed,Completed,5,11,6,No,No,No,0,0.0,Yes
+P0250,33,UK,Android,Social,No,9,28.9,6,Not Completed,Not Completed,Not Completed,4,8,11,No,No,No,0,0.0,Yes
+P0251,37,Germany,iOS,Organic,Yes,6,15.9,7,Completed,Not Completed,Completed,3,12,1,Yes,No,No,1,9.03,No
+P0252,34,UK,Android,Paid Ads,Yes,13,15.1,7,Completed,Completed,Completed,8,15,7,Yes,Yes,Yes,0,0.0,No
+P0253,19,India,Android,Paid Ads,Yes,8,21.2,7,Completed,Not Completed,Completed,5,14,7,No,No,No,0,0.0,Yes
+P0254,18,India,Android,Social,Yes,11,25.0,8,Completed,Completed,Completed,6,16,4,Yes,Yes,Yes,1,17.4,No
+P0255,33,India,iOS,Organic,No,6,23.1,7,Not Completed,Not Completed,Not Completed,4,11,4,No,No,No,0,0.0,Yes
+P0256,29,US,Android,Paid Ads,Yes,9,16.8,4,Completed,Completed,Completed,4,6,2,Yes,Yes,No,0,0.0,No
+P0257,22,India,Android,Organic,Yes,7,18.5,12,Completed,Completed,Completed,4,25,6,Yes,No,No,0,0.0,No
+P0258,22,US,iOS,Paid Ads,Yes,7,14.1,7,Completed,Not Completed,Completed,3,13,5,Yes,No,No,0,0.0,No
+P0259,40,US,iOS,Referral,Yes,12,20.4,7,Completed,Completed,Completed,8,9,6,Yes,Yes,Yes,2,26.23,No
+P0260,26,India,Android,Social,No,11,29.5,6,Not Completed,Not Completed,Not Completed,4,16,9,No,No,No,1,4.39,Yes
+P0261,26,Canada,iOS,Organic,No,10,22.0,12,Completed,Not Completed,Not Completed,4,20,6,Yes,No,No,1,3.3,Yes
+P0262,20,India,Android,Paid Ads,Yes,10,28.0,5,Completed,Completed,Not Completed,6,4,6,Yes,Yes,Yes,1,16.9,No
+P0263,36,India,Android,Paid Ads,Yes,10,32.2,8,Completed,Completed,Completed,3,17,7,Yes,Yes,Yes,2,19.29,No
+P0264,33,UK,Android,Social,No,6,17.9,2,Not Completed,Not Completed,Not Completed,2,1,6,No,No,No,0,0.0,Yes
+P0265,33,US,Android,Referral,No,12,20.7,12,Not Completed,Not Completed,Not Completed,5,21,8,Yes,Yes,No,1,5.18,No
+P0266,20,UK,iOS,Organic,Yes,8,37.2,3,Completed,Completed,Completed,4,8,2,Yes,Yes,No,1,3.11,No
+P0267,37,US,Android,Social,Yes,7,32.1,4,Completed,Completed,Completed,5,9,5,Yes,No,No,0,0.0,Yes
+P0268,39,India,Android,Paid Ads,Yes,6,10.3,4,Completed,Completed,Completed,3,11,10,No,No,No,1,11.11,Yes
+P0269,18,Canada,iOS,Referral,No,11,24.7,2,Not Completed,Not Completed,Not Completed,7,7,3,Yes,No,No,0,0.0,Yes
+P0270,37,Canada,iOS,Organic,Yes,9,22.0,6,Completed,Completed,Completed,4,15,6,Yes,No,No,1,11.02,No
+P0271,28,UK,Android,Paid Ads,Yes,11,27.8,10,Completed,Not Completed,Not Completed,3,17,6,Yes,Yes,Yes,1,16.09,No
+P0272,34,India,iOS,Social,No,10,16.8,4,Not Completed,Not Completed,Not Completed,3,7,7,Yes,Yes,No,0,0.0,Yes
+P0273,25,US,Android,Social,Yes,11,16.1,8,Completed,Completed,Completed,5,13,3,Yes,Yes,Yes,0,0.0,No
+P0274,21,US,iOS,Organic,Yes,10,17.3,6,Completed,Not Completed,Completed,4,14,10,Yes,Yes,Yes,0,0.0,No
+P0275,23,India,iOS,Referral,Yes,10,18.0,4,Completed,Not Completed,Completed,3,7,4,Yes,No,No,1,15.9,Yes
+P0276,25,Germany,iOS,Organic,Yes,12,27.7,6,Completed,Completed,Completed,6,13,5,Yes,Yes,Yes,0,0.0,No
+P0277,37,India,Android,Organic,Yes,11,13.7,9,Completed,Completed,Completed,6,14,1,Yes,No,No,3,13.63,No
+P0278,20,Germany,Android,Organic,Yes,8,17.6,2,Completed,Completed,Completed,3,3,4,Yes,No,No,1,2.56,Yes
+P0279,33,US,Android,Referral,Yes,10,9.5,7,Completed,Not Completed,Completed,6,15,4,Yes,Yes,Yes,1,14.34,No
+P0280,20,India,Android,Paid Ads,Yes,10,29.0,6,Completed,Completed,Completed,6,12,6,Yes,Yes,No,0,0.0,Yes
+P0281,35,US,Android,Paid Ads,No,3,30.9,6,Not Completed,Not Completed,Not Completed,2,7,2,No,No,No,0,0.0,Yes
+P0282,31,Germany,iOS,Organic,No,12,19.7,9,Not Completed,Not Completed,Not Completed,8,14,5,Yes,Yes,No,0,0.0,No
+P0283,35,UK,Android,Paid Ads,Yes,10,19.9,4,Completed,Completed,Completed,4,3,5,Yes,Yes,Yes,2,25.02,No
+P0284,19,Canada,Android,Social,Yes,6,25.2,3,Completed,Completed,Completed,3,6,5,No,No,No,0,0.0,Yes
+P0285,39,UK,iOS,Paid Ads,Yes,3,32.3,5,Completed,Completed,Completed,2,9,7,Yes,No,No,1,6.6,No
+P0286,20,UK,Android,Referral,Yes,7,24.9,4,Completed,Completed,Completed,4,7,7,Yes,No,No,0,0.0,Yes
+P0287,33,Canada,iOS,Organic,Yes,7,17.1,6,Completed,Not Completed,Completed,4,13,6,Yes,Yes,Yes,0,0.0,No
+P0288,26,India,Android,Paid Ads,Yes,7,10.7,11,Completed,Completed,Completed,3,19,4,No,No,No,0,0.0,Yes
+P0289,21,US,Android,Organic,Yes,9,14.2,10,Completed,Completed,Completed,5,22,5,Yes,Yes,No,0,0.0,No
+P0290,18,India,Android,Social,Yes,8,22.5,8,Completed,Completed,Not Completed,2,15,2,Yes,Yes,No,0,0.0,No
+P0291,21,Germany,Android,Organic,Yes,8,17.4,1,Completed,Completed,Completed,6,5,4,No,No,No,2,20.04,Yes
+P0292,18,Germany,iOS,Organic,Yes,7,23.4,5,Completed,Completed,Completed,4,10,9,Yes,No,No,0,0.0,Yes
+P0293,31,India,Android,Social,Yes,9,18.1,5,Completed,Completed,Completed,6,9,6,No,No,No,0,0.0,Yes
+P0294,38,UK,Android,Paid Ads,Yes,10,14.6,11,Completed,Completed,Completed,6,17,4,Yes,No,No,0,0.0,No
+P0295,33,Germany,Android,Organic,Yes,9,13.8,7,Completed,Completed,Completed,3,12,8,Yes,Yes,No,0,0.0,No
+P0296,37,India,Android,Paid Ads,No,8,32.9,5,Not Completed,Not Completed,Not Completed,2,9,5,No,No,No,0,0.0,Yes
+P0297,25,US,iOS,Social,No,13,28.2,9,Not Completed,Not Completed,Not Completed,8,15,8,Yes,No,No,1,11.54,No
+P0298,24,Germany,Android,Organic,Yes,9,34.1,6,Completed,Not Completed,Completed,4,12,3,Yes,No,No,0,0.0,Yes
+P0299,20,India,iOS,Paid Ads,Yes,7,25.8,5,Completed,Not Completed,Completed,3,10,3,Yes,Yes,Yes,2,24.58,No
+P0300,34,UK,iOS,Organic,Yes,10,19.0,5,Completed,Not Completed,Completed,5,8,3,Yes,Yes,No,0,0.0,Yes
+P0301,18,India,iOS,Social,Yes,8,31.3,2,Completed,Completed,Completed,4,4,5,Yes,Yes,No,2,36.11,No
+P0302,33,Germany,iOS,Paid Ads,Yes,9,21.8,7,Completed,Completed,Completed,5,13,8,Yes,Yes,Yes,1,18.57,No
+P0303,29,Germany,Android,Organic,No,10,23.5,11,Not Completed,Not Completed,Not Completed,5,17,9,No,No,No,1,15.2,Yes
+P0304,36,Germany,Android,Organic,Yes,8,21.7,6,Completed,Completed,Not Completed,5,10,7,Yes,Yes,No,0,0.0,No
+P0305,39,US,Android,Social,No,8,5.0,9,Completed,Not Completed,Not Completed,5,14,4,Yes,No,No,1,6.59,Yes
+P0306,40,Canada,iOS,Referral,Yes,7,33.2,6,Completed,Completed,Completed,2,16,6,Yes,No,No,0,0.0,Yes
+P0307,39,Canada,iOS,Paid Ads,Yes,8,25.4,11,Completed,Completed,Completed,3,16,7,Yes,Yes,No,0,0.0,No
+P0308,31,India,Android,Paid Ads,No,11,24.3,5,Not Completed,Not Completed,Not Completed,5,8,2,Yes,No,No,0,0.0,No
+P0309,23,Canada,iOS,Paid Ads,Yes,11,21.6,5,Completed,Not Completed,Completed,8,8,3,Yes,Yes,Yes,0,0.0,No
+P0310,23,India,Android,Organic,Yes,8,23.1,7,Completed,Completed,Completed,3,12,2,Yes,No,No,0,0.0,Yes
+P0311,30,US,iOS,Social,Yes,11,17.8,15,Completed,Completed,Completed,5,26,4,Yes,Yes,Yes,1,8.42,No
+P0312,36,India,Android,Paid Ads,Yes,7,26.3,7,Completed,Completed,Completed,4,12,5,Yes,Yes,Yes,2,18.61,No
+P0313,39,India,iOS,Organic,No,9,12.9,14,Completed,Not Completed,Not Completed,4,20,6,No,No,No,2,38.26,No
+P0314,25,India,iOS,Organic,Yes,8,23.3,1,Completed,Completed,Completed,5,6,4,Yes,Yes,Yes,2,13.31,No
+P0315,19,UK,Android,Organic,No,8,25.9,1,Not Completed,Not Completed,Not Completed,5,4,0,Yes,No,No,0,0.0,Yes
+P0316,38,India,Android,Social,No,9,20.6,9,Not Completed,Not Completed,Not Completed,4,16,6,No,No,No,1,19.13,Yes
+P0317,18,UK,Android,Referral,No,10,24.6,3,Completed,Not Completed,Not Completed,5,8,4,No,No,No,2,21.14,Yes
+P0318,32,India,Android,Organic,Yes,10,15.1,5,Completed,Completed,Completed,3,7,3,Yes,Yes,Yes,0,0.0,No
+P0319,18,India,Android,Social,Yes,11,15.2,3,Completed,Completed,Completed,6,6,5,Yes,Yes,No,0,0.0,No
+P0320,22,US,iOS,Organic,No,8,23.7,7,Not Completed,Not Completed,Not Completed,5,14,6,No,No,No,0,0.0,Yes
+P0321,33,Canada,iOS,Referral,Yes,5,26.7,6,Completed,Completed,Not Completed,2,10,4,Yes,Yes,No,1,5.38,No
+P0322,36,India,Android,Organic,Yes,7,8.9,6,Completed,Completed,Not Completed,2,12,5,Yes,No,No,0,0.0,Yes
+P0323,21,US,Android,Social,Yes,8,25.7,8,Completed,Completed,Not Completed,5,15,4,Yes,Yes,No,0,0.0,No
+P0324,20,Germany,iOS,Paid Ads,Yes,7,18.2,10,Completed,Completed,Completed,3,14,4,Yes,No,No,1,10.0,No
+P0325,34,US,iOS,Paid Ads,Yes,11,20.7,5,Completed,Completed,Completed,6,7,4,Yes,Yes,Yes,3,22.67,No
+P0326,34,India,Android,Social,Yes,8,12.6,9,Completed,Completed,Completed,2,11,1,Yes,Yes,No,0,0.0,No
+P0327,29,India,iOS,Organic,Yes,16,16.0,9,Completed,Completed,Completed,7,16,6,Yes,Yes,Yes,0,0.0,No
+P0328,31,Germany,Android,Social,No,6,28.8,7,Not Completed,Not Completed,Not Completed,4,16,5,No,No,No,0,0.0,Yes
+P0329,38,India,Android,Organic,Yes,6,22.2,5,Completed,Not Completed,Completed,3,8,4,Yes,Yes,Yes,1,7.5,No
+P0330,23,Germany,Android,Organic,No,7,19.3,7,Not Completed,Not Completed,Not Completed,4,12,6,No,No,No,0,0.0,Yes
+P0331,20,US,Android,Social,Yes,9,21.2,11,Completed,Completed,Completed,3,21,5,Yes,No,No,1,4.47,No
+P0332,26,Germany,Android,Organic,No,14,25.4,4,Not Completed,Not Completed,Not Completed,6,9,1,Yes,Yes,No,0,0.0,No
+P0333,22,Canada,iOS,Organic,Yes,9,25.1,2,Completed,Not Completed,Completed,6,3,3,Yes,Yes,No,0,0.0,No
+P0334,34,Germany,iOS,Paid Ads,No,7,21.5,10,Not Completed,Not Completed,Not Completed,4,20,6,No,No,No,1,19.63,Yes
+P0335,31,US,iOS,Referral,Yes,14,29.7,1,Completed,Completed,Completed,9,4,5,Yes,Yes,Yes,1,9.62,No
+P0336,38,UK,Android,Paid Ads,No,6,28.8,5,Completed,Not Completed,Not Completed,4,9,2,No,No,No,0,0.0,Yes
+P0337,20,US,Android,Organic,Yes,8,24.9,8,Completed,Completed,Completed,5,14,6,Yes,Yes,Yes,2,16.46,No
+P0338,18,US,iOS,Organic,No,7,22.4,2,Not Completed,Not Completed,Not Completed,5,6,6,Yes,No,No,1,15.27,Yes
+P0339,37,US,Android,Referral,No,7,26.6,9,Completed,Not Completed,Not Completed,2,14,4,No,No,No,2,27.73,Yes
+P0340,38,Germany,Android,Organic,Yes,8,24.2,6,Completed,Completed,Completed,5,14,5,Yes,Yes,No,1,16.01,Yes
+P0341,40,Germany,Android,Organic,Yes,9,29.4,7,Completed,Not Completed,Completed,3,15,2,Yes,Yes,Yes,2,6.64,No
+P0342,18,UK,iOS,Social,No,7,28.3,7,Not Completed,Not Completed,Not Completed,2,13,9,No,No,No,0,0.0,No
+P0343,20,US,Android,Paid Ads,Yes,10,14.9,9,Completed,Completed,Completed,3,16,4,Yes,Yes,Yes,1,18.78,No
+P0344,35,US,Android,Paid Ads,No,8,14.4,11,Not Completed,Not Completed,Not Completed,3,17,2,Yes,No,No,1,3.94,Yes
+P0345,27,UK,iOS,Organic,Yes,7,17.1,7,Completed,Completed,Completed,4,11,1,Yes,Yes,No,1,3.7,No
+P0346,39,India,Android,Organic,Yes,7,28.8,7,Completed,Not Completed,Completed,3,10,5,Yes,No,No,0,0.0,Yes
+P0347,20,India,Android,Referral,No,7,11.0,3,Not Completed,Not Completed,Not Completed,2,6,2,No,No,No,2,15.35,Yes
+P0348,25,US,Android,Organic,Yes,6,24.8,9,Completed,Completed,Completed,3,16,8,Yes,Yes,No,0,0.0,Yes
+P0349,31,India,Android,Paid Ads,No,8,24.5,2,Not Completed,Not Completed,Not Completed,4,2,6,No,No,No,2,23.63,Yes
+P0350,35,India,iOS,Paid Ads,Yes,5,30.1,6,Completed,Completed,Completed,3,12,4,Yes,Yes,Yes,1,19.75,No
+P0351,32,India,Android,Paid Ads,Yes,13,23.3,8,Completed,Completed,Completed,5,12,3,Yes,No,No,2,36.01,Yes
+P0352,39,India,Android,Organic,Yes,7,12.6,3,Completed,Completed,Completed,2,7,8,Yes,No,No,1,14.21,Yes
+P0353,40,India,iOS,Organic,Yes,11,15.3,5,Completed,Completed,Completed,4,11,0,Yes,Yes,No,3,20.13,Yes
+P0354,19,Germany,iOS,Social,Yes,5,13.7,5,Completed,Completed,Completed,2,12,4,Yes,Yes,No,2,13.43,Yes
+P0355,27,US,iOS,Referral,Yes,9,18.2,3,Completed,Completed,Completed,5,9,2,Yes,No,No,0,0.0,Yes
+P0356,19,US,Android,Referral,Yes,3,20.7,3,Completed,Not Completed,Completed,1,10,7,No,No,No,2,25.07,Yes
+P0357,34,UK,Android,Organic,Yes,7,13.8,7,Completed,Not Completed,Completed,3,14,2,Yes,Yes,Yes,0,0.0,No
+P0358,25,India,iOS,Organic,No,10,32.3,7,Not Completed,Not Completed,Not Completed,4,13,4,No,No,No,0,0.0,Yes
+P0359,18,Germany,iOS,Referral,Yes,7,12.7,7,Completed,Not Completed,Completed,3,12,5,No,No,No,0,0.0,Yes
+P0360,26,Canada,Android,Paid Ads,Yes,11,31.4,5,Completed,Not Completed,Completed,8,9,7,Yes,Yes,No,0,0.0,No
+P0361,28,India,Android,Referral,Yes,7,30.3,5,Completed,Completed,Completed,2,13,1,Yes,Yes,Yes,2,9.8,No
+P0362,39,US,Android,Organic,Yes,9,28.3,7,Completed,Completed,Completed,6,12,5,Yes,No,No,0,0.0,No
+P0363,33,Germany,iOS,Social,No,4,17.1,9,Not Completed,Not Completed,Not Completed,2,15,6,No,No,No,2,29.22,Yes
+P0364,24,Germany,Android,Paid Ads,Yes,6,24.4,10,Completed,Completed,Completed,2,20,2,Yes,No,No,0,0.0,No
+P0365,27,US,Android,Paid Ads,Yes,12,13.1,12,Completed,Completed,Completed,8,20,3,Yes,No,No,2,26.37,No
+P0366,40,US,Android,Social,Yes,10,28.4,7,Completed,Completed,Completed,6,11,1,Yes,No,No,0,0.0,No
+P0367,20,India,iOS,Organic,Yes,8,21.5,8,Completed,Not Completed,Completed,4,16,7,No,No,No,1,14.55,No
+P0368,35,Germany,iOS,Social,No,9,19.1,10,Not Completed,Not Completed,Not Completed,4,15,3,Yes,No,No,2,22.4,No
+P0369,30,India,Android,Organic,Yes,5,13.4,3,Completed,Not Completed,Completed,2,7,6,Yes,No,No,0,0.0,Yes
+P0370,24,Germany,iOS,Social,No,13,5.0,4,Not Completed,Not Completed,Not Completed,5,8,4,Yes,Yes,Yes,0,0.0,No
+P0371,21,US,iOS,Referral,Yes,12,14.7,7,Completed,Completed,Completed,3,13,4,Yes,No,No,0,0.0,No
+P0372,30,US,Android,Social,Yes,7,29.8,6,Completed,Completed,Completed,4,6,9,Yes,No,No,0,0.0,No
+P0373,37,US,Android,Paid Ads,No,10,19.2,6,Not Completed,Not Completed,Not Completed,7,13,11,Yes,Yes,No,1,16.09,No
+P0374,18,India,Android,Organic,Yes,15,20.8,5,Completed,Completed,Completed,5,9,8,Yes,Yes,Yes,1,16.69,No
+P0375,25,India,iOS,Paid Ads,Yes,9,26.6,8,Completed,Completed,Completed,5,15,7,Yes,Yes,No,2,39.63,Yes
+P0376,31,India,iOS,Referral,Yes,9,34.6,7,Completed,Completed,Completed,5,14,5,Yes,No,No,1,15.48,Yes
+P0377,33,India,iOS,Organic,Yes,7,31.3,8,Completed,Completed,Completed,2,15,5,Yes,Yes,Yes,0,0.0,No
+P0378,31,Canada,iOS,Organic,Yes,9,15.2,6,Completed,Completed,Completed,4,10,8,Yes,Yes,No,1,5.7,No
+P0379,29,US,Android,Social,Yes,7,8.4,7,Completed,Completed,Completed,3,12,6,Yes,No,No,1,2.63,Yes
+P0380,36,India,iOS,Organic,Yes,12,38.5,6,Completed,Completed,Completed,7,11,5,Yes,Yes,Yes,0,0.0,No
+P0381,40,Germany,Android,Paid Ads,Yes,6,37.9,9,Completed,Completed,Completed,4,16,6,Yes,No,No,1,3.11,No
+P0382,32,Germany,Android,Referral,Yes,13,23.3,4,Completed,Completed,Completed,4,7,4,Yes,No,No,0,0.0,Yes
+P0383,19,Germany,iOS,Social,Yes,10,13.1,6,Completed,Completed,Completed,5,13,5,Yes,Yes,No,0,0.0,No
+P0384,19,Germany,iOS,Organic,Yes,12,28.7,9,Completed,Not Completed,Completed,7,15,4,Yes,Yes,No,1,10.51,Yes
+P0385,40,India,Android,Social,Yes,7,21.2,5,Completed,Completed,Completed,4,8,3,No,No,No,1,18.18,Yes
+P0386,39,US,iOS,Paid Ads,No,10,21.2,10,Not Completed,Not Completed,Not Completed,3,18,5,No,No,No,2,30.95,Yes
+P0387,36,UK,iOS,Organic,Yes,10,28.3,6,Completed,Completed,Completed,5,15,7,Yes,Yes,No,2,37.98,No
+P0388,39,UK,Android,Social,No,10,24.3,6,Not Completed,Not Completed,Not Completed,6,9,6,No,No,No,0,0.0,Yes
+P0389,39,India,iOS,Paid Ads,Yes,10,13.7,6,Completed,Completed,Completed,4,11,8,Yes,Yes,Yes,2,23.12,No
+P0390,34,Canada,Android,Paid Ads,Yes,8,19.7,8,Completed,Completed,Not Completed,4,16,6,Yes,No,No,1,7.73,Yes
+P0391,37,India,Android,Organic,Yes,6,26.6,3,Completed,Not Completed,Completed,4,8,6,Yes,Yes,No,0,0.0,No
+P0392,27,India,Android,Paid Ads,Yes,3,25.6,5,Completed,Completed,Completed,1,11,4,No,No,No,0,0.0,Yes
+P0393,23,US,iOS,Organic,Yes,10,23.8,5,Completed,Completed,Completed,6,10,3,Yes,Yes,Yes,1,2.65,No
+P0394,32,US,iOS,Organic,Yes,7,28.5,4,Completed,Completed,Completed,3,3,5,No,No,No,0,0.0,Yes
+P0395,39,US,Android,Referral,Yes,8,19.5,6,Completed,Completed,Completed,2,12,8,No,No,No,1,14.69,Yes
+P0396,28,India,Android,Paid Ads,No,5,23.3,6,Not Completed,Not Completed,Not Completed,2,12,6,Yes,No,No,0,0.0,No
+P0397,22,Germany,iOS,Organic,Yes,10,5.0,4,Completed,Completed,Completed,3,10,5,Yes,No,No,2,24.5,No
+P0398,18,India,Android,Organic,Yes,9,18.9,5,Completed,Completed,Completed,3,8,6,Yes,Yes,Yes,2,13.75,No
+P0399,25,India,iOS,Organic,Yes,11,27.3,4,Completed,Not Completed,Completed,6,11,9,Yes,Yes,Yes,0,0.0,No
+P0400,38,Germany,iOS,Organic,Yes,10,19.3,6,Completed,Completed,Completed,3,10,9,Yes,Yes,Yes,0,0.0,No
+P0401,29,Germany,Android,Organic,Yes,10,18.7,9,Completed,Completed,Not Completed,7,15,6,Yes,Yes,Yes,1,19.16,No
+P0402,29,Canada,iOS,Organic,Yes,3,14.7,5,Completed,Completed,Completed,1,8,4,Yes,No,No,1,17.64,No
+P0403,22,Canada,Android,Social,No,7,29.0,3,Not Completed,Not Completed,Not Completed,3,9,5,No,No,No,0,0.0,Yes
+P0404,24,UK,iOS,Paid Ads,No,8,25.8,8,Not Completed,Not Completed,Not Completed,4,12,4,Yes,No,No,0,0.0,No
+P0405,21,US,iOS,Paid Ads,Yes,8,27.8,5,Completed,Completed,Not Completed,4,11,3,Yes,Yes,No,0,0.0,No
+P0406,23,India,iOS,Paid Ads,Yes,10,9.9,1,Completed,Completed,Completed,5,2,10,Yes,No,No,0,0.0,No
+P0407,30,US,Android,Organic,No,7,20.9,4,Not Completed,Not Completed,Not Completed,2,8,3,No,No,No,1,18.82,Yes
+P0408,37,US,iOS,Referral,Yes,7,20.0,5,Completed,Not Completed,Completed,5,6,7,No,No,No,0,0.0,Yes
+P0409,32,India,Android,Paid Ads,Yes,11,20.0,10,Completed,Completed,Completed,5,19,9,Yes,Yes,Yes,0,0.0,No
+P0410,20,UK,Android,Paid Ads,Yes,11,17.7,8,Completed,Not Completed,Completed,3,14,2,Yes,Yes,Yes,0,0.0,No
+P0411,40,US,Android,Paid Ads,Yes,13,19.6,3,Completed,Completed,Completed,6,8,7,Yes,Yes,Yes,2,32.78,No
+P0412,25,India,iOS,Referral,Yes,9,27.9,5,Completed,Completed,Completed,5,9,3,Yes,Yes,Yes,0,0.0,No
+P0413,37,India,Android,Social,Yes,6,8.6,6,Completed,Completed,Not Completed,2,12,8,Yes,No,No,0,0.0,No
+P0414,33,UK,iOS,Organic,Yes,9,34.4,9,Completed,Completed,Completed,5,15,8,Yes,Yes,No,0,0.0,No
+P0415,30,India,iOS,Paid Ads,Yes,9,25.4,7,Completed,Completed,Completed,5,14,4,Yes,No,No,2,9.14,Yes
+P0416,35,Canada,Android,Paid Ads,No,9,21.7,4,Not Completed,Not Completed,Not Completed,5,9,6,Yes,Yes,No,1,14.16,No
+P0417,27,US,iOS,Paid Ads,Yes,15,28.3,7,Completed,Not Completed,Completed,7,13,4,Yes,Yes,Yes,0,0.0,No
+P0418,36,US,Android,Social,Yes,3,11.8,6,Completed,Completed,Completed,2,9,4,Yes,No,No,0,0.0,Yes
+P0419,34,US,iOS,Organic,Yes,8,17.3,7,Completed,Completed,Completed,3,12,5,Yes,Yes,No,1,4.48,No
+P0420,36,Canada,iOS,Social,Yes,8,21.2,6,Completed,Completed,Not Completed,4,9,5,No,No,No,0,0.0,Yes
+P0421,40,India,Android,Referral,Yes,6,31.6,11,Completed,Completed,Completed,2,21,7,No,No,No,2,30.12,Yes
+P0422,22,UK,iOS,Social,Yes,8,21.7,6,Completed,Not Completed,Completed,5,13,3,Yes,Yes,No,0,0.0,No
+P0423,38,US,Android,Social,No,9,25.2,7,Not Completed,Not Completed,Not Completed,2,13,3,No,No,No,0,0.0,Yes
+P0424,40,India,Android,Organic,No,9,17.9,2,Not Completed,Not Completed,Not Completed,2,4,2,No,No,No,1,5.3,No
+P0425,26,Germany,iOS,Social,Yes,13,25.4,6,Completed,Completed,Completed,8,9,3,Yes,Yes,Yes,3,24.27,No
+P0426,29,Canada,Android,Referral,Yes,5,33.7,5,Completed,Completed,Completed,2,10,3,Yes,No,No,0,0.0,Yes
+P0427,38,UK,Android,Paid Ads,Yes,7,29.0,6,Completed,Completed,Completed,3,15,4,Yes,Yes,No,0,0.0,Yes
+P0428,18,Canada,Android,Paid Ads,No,9,21.4,6,Not Completed,Not Completed,Not Completed,5,11,3,Yes,No,No,1,6.87,Yes
+P0429,18,Canada,iOS,Social,No,10,26.7,6,Not Completed,Not Completed,Not Completed,6,13,6,No,No,No,2,8.4,Yes
+P0430,32,UK,Android,Paid Ads,Yes,7,26.0,10,Completed,Completed,Completed,2,18,6,No,No,No,1,2.76,No
+P0431,19,Canada,Android,Organic,Yes,12,25.5,9,Completed,Completed,Completed,4,17,7,Yes,Yes,Yes,2,34.16,No
+P0432,39,UK,iOS,Paid Ads,Yes,7,29.8,7,Completed,Completed,Completed,5,12,8,Yes,Yes,No,0,0.0,No
+P0433,33,UK,iOS,Social,Yes,10,29.7,13,Completed,Completed,Not Completed,5,21,4,Yes,Yes,Yes,0,0.0,No
+P0434,25,US,Android,Social,Yes,13,21.1,6,Completed,Completed,Completed,6,9,4,Yes,Yes,Yes,1,6.28,No
+P0435,30,UK,Android,Paid Ads,Yes,8,26.5,5,Completed,Not Completed,Not Completed,5,10,5,Yes,No,No,1,10.02,No
+P0436,38,India,Android,Referral,Yes,15,19.3,6,Completed,Completed,Completed,7,11,6,Yes,Yes,Yes,2,32.43,No
+P0437,18,Germany,Android,Organic,No,7,15.5,13,Completed,Not Completed,Not Completed,3,22,7,No,No,No,0,0.0,Yes
+P0438,33,Germany,Android,Paid Ads,No,10,20.1,5,Not Completed,Not Completed,Not Completed,3,8,10,Yes,Yes,No,1,11.78,No
+P0439,24,India,iOS,Organic,Yes,9,21.5,8,Completed,Completed,Not Completed,4,15,3,Yes,Yes,Yes,0,0.0,No
+P0440,22,Canada,iOS,Social,Yes,11,10.4,6,Completed,Completed,Not Completed,7,11,3,Yes,No,No,0,0.0,No
+P0441,39,India,iOS,Organic,Yes,10,28.0,3,Completed,Completed,Completed,3,7,4,Yes,Yes,Yes,0,0.0,No
+P0442,40,India,Android,Organic,Yes,6,5.0,3,Completed,Completed,Completed,2,7,2,No,No,No,1,5.8,Yes
+P0443,20,UK,iOS,Social,Yes,8,41.0,4,Completed,Completed,Completed,5,8,1,Yes,Yes,Yes,1,8.6,No
+P0444,29,India,Android,Organic,Yes,11,32.5,2,Completed,Completed,Completed,3,13,4,Yes,No,No,0,0.0,No
+P0445,33,Canada,iOS,Social,Yes,7,20.2,7,Completed,Completed,Not Completed,4,13,6,Yes,Yes,No,0,0.0,No
+P0446,36,Canada,iOS,Referral,Yes,8,22.1,10,Completed,Completed,Completed,3,17,4,No,No,No,0,0.0,Yes
+P0447,22,US,Android,Organic,Yes,9,24.1,9,Completed,Not Completed,Completed,5,17,6,Yes,No,No,0,0.0,Yes
+P0448,39,India,iOS,Paid Ads,Yes,7,17.9,5,Completed,Completed,Completed,3,8,5,Yes,Yes,No,2,14.1,No
+P0449,31,India,Android,Social,Yes,6,23.3,8,Completed,Not Completed,Completed,2,13,3,Yes,No,No,0,0.0,Yes
+P0450,22,US,iOS,Paid Ads,Yes,8,21.0,3,Completed,Completed,Completed,4,8,5,Yes,No,No,0,0.0,Yes
+P0451,32,Germany,Android,Organic,No,5,21.3,11,Not Completed,Not Completed,Not Completed,3,20,10,Yes,No,No,2,38.86,Yes
+P0452,34,US,Android,Organic,Yes,13,23.3,6,Completed,Completed,Completed,7,13,2,Yes,Yes,Yes,0,0.0,No
+P0453,31,India,iOS,Organic,Yes,13,12.8,3,Completed,Not Completed,Completed,7,4,8,Yes,Yes,Yes,0,0.0,No
+P0454,37,US,Android,Organic,No,10,22.3,2,Not Completed,Not Completed,Not Completed,5,5,4,No,No,No,0,0.0,Yes
+P0455,22,US,iOS,Organic,No,8,23.1,6,Completed,Not Completed,Not Completed,4,12,6,Yes,Yes,No,1,8.05,No
+P0456,29,Canada,Android,Paid Ads,Yes,6,22.9,10,Completed,Not Completed,Completed,3,18,2,No,No,No,1,13.26,Yes
+P0457,33,India,iOS,Referral,No,6,20.5,7,Not Completed,Not Completed,Not Completed,3,14,4,No,No,No,1,6.39,Yes
+P0458,33,UK,iOS,Paid Ads,Yes,8,30.0,5,Completed,Completed,Completed,4,8,7,Yes,Yes,No,1,6.81,No
+P0459,38,US,Android,Paid Ads,Yes,7,19.5,10,Completed,Not Completed,Completed,4,18,6,Yes,Yes,Yes,1,3.35,No
+P0460,24,Germany,Android,Organic,Yes,8,23.6,5,Completed,Not Completed,Completed,3,10,3,Yes,Yes,Yes,0,0.0,No
+P0461,21,India,Android,Organic,Yes,10,31.1,3,Completed,Completed,Completed,3,7,4,Yes,No,No,0,0.0,No
+P0462,18,US,Android,Organic,Yes,9,21.4,3,Completed,Completed,Completed,3,4,4,Yes,No,No,1,16.2,Yes
+P0463,22,Germany,Android,Organic,Yes,7,23.5,4,Completed,Not Completed,Completed,5,6,7,Yes,Yes,Yes,0,0.0,No
+P0464,40,India,iOS,Social,Yes,10,21.3,2,Completed,Not Completed,Not Completed,6,9,5,Yes,Yes,No,0,0.0,No
+P0465,27,Germany,iOS,Social,Yes,9,30.7,5,Completed,Completed,Completed,4,11,7,Yes,Yes,No,0,0.0,No
+P0466,39,UK,iOS,Social,Yes,6,20.2,4,Completed,Not Completed,Completed,2,8,4,No,No,No,1,10.88,Yes
+P0467,22,India,iOS,Social,Yes,10,31.0,7,Completed,Completed,Completed,3,12,3,Yes,Yes,Yes,2,22.77,No
+P0468,21,India,iOS,Paid Ads,Yes,7,21.3,7,Completed,Completed,Completed,5,17,3,Yes,Yes,No,0,0.0,No
+P0469,19,UK,iOS,Paid Ads,Yes,9,16.0,7,Completed,Completed,Completed,6,13,3,Yes,No,No,0,0.0,Yes
+P0470,37,India,Android,Organic,No,7,26.8,9,Not Completed,Not Completed,Not Completed,2,15,3,Yes,No,No,2,6.5,Yes
+P0471,27,US,iOS,Referral,No,8,19.9,5,Not Completed,Not Completed,Not Completed,5,8,4,Yes,No,No,1,7.65,Yes
+P0472,36,India,iOS,Referral,Yes,9,26.3,9,Completed,Completed,Completed,4,15,6,Yes,Yes,Yes,0,0.0,No
+P0473,18,US,iOS,Organic,No,6,5.0,6,Not Completed,Not Completed,Not Completed,2,8,4,No,No,No,1,18.19,Yes
+P0474,22,India,Android,Social,Yes,9,22.0,5,Completed,Completed,Completed,5,11,11,Yes,Yes,No,0,0.0,Yes
+P0475,30,Germany,Android,Social,Yes,6,18.8,6,Completed,Completed,Completed,3,14,3,Yes,No,No,0,0.0,No
+P0476,21,Germany,Android,Referral,Yes,10,14.6,8,Completed,Not Completed,Completed,6,17,6,Yes,Yes,No,0,0.0,No
+P0477,33,Germany,iOS,Referral,Yes,12,18.1,12,Completed,Not Completed,Completed,3,19,1,Yes,Yes,No,0,0.0,No
+P0478,33,UK,Android,Organic,Yes,9,18.0,4,Completed,Completed,Completed,4,3,10,Yes,Yes,Yes,2,30.17,No
+P0479,40,India,Android,Social,Yes,7,21.7,3,Completed,Not Completed,Completed,3,7,4,Yes,Yes,Yes,1,5.99,No
+P0480,19,UK,iOS,Social,No,12,12.4,7,Not Completed,Not Completed,Not Completed,5,15,5,No,No,No,0,0.0,Yes
+P0481,34,India,Android,Social,Yes,8,24.2,8,Completed,Completed,Completed,4,11,3,Yes,Yes,Yes,1,17.51,No
+P0482,37,India,Android,Organic,Yes,11,31.6,6,Completed,Not Completed,Completed,4,10,6,Yes,Yes,Yes,0,0.0,No
+P0483,29,India,Android,Referral,No,9,24.0,6,Completed,Not Completed,Not Completed,4,12,11,No,No,No,1,19.8,Yes
+P0484,35,US,iOS,Paid Ads,Yes,10,27.7,4,Completed,Completed,Not Completed,4,6,6,Yes,Yes,Yes,2,8.85,No
+P0485,20,Canada,iOS,Paid Ads,Yes,8,29.7,5,Completed,Completed,Completed,5,6,3,Yes,Yes,No,0,0.0,No
+P0486,18,UK,Android,Referral,Yes,8,30.7,15,Completed,Completed,Completed,4,23,2,Yes,No,No,1,7.6,Yes
+P0487,18,US,iOS,Paid Ads,Yes,13,35.1,7,Completed,Completed,Completed,7,11,5,Yes,Yes,No,0,0.0,No
+P0488,36,India,Android,Social,Yes,4,18.5,2,Completed,Not Completed,Completed,1,1,7,Yes,Yes,No,1,6.6,No
+P0489,28,Germany,iOS,Paid Ads,Yes,7,17.0,3,Completed,Completed,Completed,3,9,3,Yes,No,No,4,33.45,Yes
+P0490,22,US,iOS,Organic,Yes,10,27.5,7,Completed,Not Completed,Completed,3,16,1,Yes,Yes,Yes,1,4.57,No
+P0491,29,US,iOS,Paid Ads,Yes,9,27.0,4,Completed,Not Completed,Completed,3,8,9,Yes,Yes,Yes,0,0.0,No
+P0492,20,India,Android,Organic,Yes,9,27.4,5,Completed,Completed,Completed,3,11,6,Yes,Yes,Yes,1,6.28,No
+P0493,18,Canada,iOS,Paid Ads,Yes,8,35.2,6,Completed,Completed,Completed,2,8,6,Yes,Yes,Yes,1,3.23,No
+P0494,18,UK,iOS,Organic,Yes,10,22.1,5,Completed,Completed,Completed,5,9,3,Yes,Yes,No,1,9.83,No
+P0495,25,India,Android,Organic,No,12,25.0,8,Not Completed,Not Completed,Not Completed,8,13,4,Yes,No,No,0,0.0,No
+P0496,27,India,iOS,Organic,Yes,9,15.1,9,Completed,Completed,Completed,3,16,6,Yes,Yes,No,0,0.0,Yes
+P0497,28,UK,Android,Organic,Yes,8,36.9,9,Completed,Not Completed,Completed,5,10,2,Yes,Yes,No,0,0.0,No
+P0498,29,UK,iOS,Paid Ads,Yes,9,19.6,5,Completed,Completed,Completed,3,9,7,Yes,Yes,No,0,0.0,No
+P0499,30,India,Android,Paid Ads,Yes,16,19.8,7,Completed,Completed,Completed,9,14,8,Yes,Yes,No,2,6.44,No
+P0500,29,Germany,iOS,Social,Yes,15,19.6,8,Completed,Completed,Completed,8,14,5,Yes,Yes,Yes,0,0.0,No
+P0501,31,India,Android,Organic,Yes,11,17.5,6,Completed,Completed,Completed,7,13,6,Yes,No,No,0,0.0,No
+P0502,19,US,Android,Organic,No,7,16.9,4,Not Completed,Not Completed,Not Completed,2,7,3,No,No,No,0,0.0,Yes
+P0503,36,Germany,Android,Organic,No,14,18.3,9,Not Completed,Not Completed,Not Completed,5,10,6,Yes,Yes,No,1,3.54,No
+P0504,35,US,Android,Organic,Yes,5,12.4,6,Completed,Not Completed,Completed,1,13,6,Yes,No,No,1,16.69,Yes
+P0505,20,US,Android,Referral,No,5,16.5,10,Not Completed,Not Completed,Not Completed,2,19,5,No,No,No,1,18.06,Yes
+P0506,40,US,Android,Organic,Yes,8,35.6,6,Completed,Completed,Completed,5,14,8,Yes,Yes,No,0,0.0,No
+P0507,34,India,iOS,Social,Yes,11,27.1,4,Completed,Completed,Completed,7,8,7,Yes,Yes,Yes,2,14.58,No
+P0508,25,Germany,Android,Organic,Yes,14,28.5,6,Completed,Completed,Not Completed,8,12,5,Yes,Yes,Yes,1,14.19,No
+P0509,27,US,Android,Organic,Yes,7,30.2,6,Completed,Completed,Completed,3,16,2,No,No,No,1,14.65,Yes
+P0510,19,Germany,iOS,Social,Yes,11,34.8,5,Completed,Completed,Completed,7,6,2,Yes,Yes,Yes,0,0.0,No
+P0511,36,India,Android,Paid Ads,Yes,6,9.6,4,Completed,Completed,Completed,3,9,9,No,No,No,0,0.0,Yes
+P0512,26,India,iOS,Organic,Yes,12,13.4,5,Completed,Completed,Completed,4,12,4,Yes,No,No,0,0.0,Yes
+P0513,24,India,iOS,Organic,No,7,16.4,8,Not Completed,Not Completed,Not Completed,4,14,5,No,No,No,1,14.37,Yes
+P0514,21,UK,iOS,Social,Yes,9,18.7,9,Completed,Completed,Completed,3,16,11,Yes,No,No,1,4.43,Yes
+P0515,38,US,iOS,Organic,Yes,5,19.9,8,Completed,Completed,Completed,1,11,3,No,No,No,0,0.0,Yes
+P0516,35,Canada,iOS,Organic,Yes,9,18.9,11,Completed,Completed,Completed,3,21,3,Yes,No,No,1,13.03,Yes
+P0517,30,US,Android,Referral,No,10,23.5,6,Not Completed,Not Completed,Not Completed,5,13,4,No,No,No,3,14.73,Yes
+P0518,28,Germany,Android,Paid Ads,Yes,12,22.2,12,Completed,Completed,Completed,6,23,3,Yes,Yes,Yes,2,6.75,No
+P0519,21,India,Android,Social,Yes,9,16.9,10,Completed,Not Completed,Completed,3,17,6,Yes,No,No,2,11.01,Yes
+P0520,38,Canada,iOS,Social,Yes,9,6.8,8,Completed,Completed,Completed,5,13,7,No,No,No,0,0.0,Yes
+P0521,21,Canada,Android,Social,Yes,10,15.0,3,Completed,Completed,Completed,6,6,2,Yes,Yes,No,1,17.98,Yes
+P0522,27,Canada,iOS,Social,No,14,18.2,9,Not Completed,Not Completed,Not Completed,9,19,4,No,No,No,0,0.0,Yes
+P0523,22,Canada,iOS,Paid Ads,Yes,11,20.3,6,Completed,Completed,Completed,6,10,3,Yes,No,No,1,15.47,No
+P0524,26,UK,iOS,Paid Ads,Yes,10,14.1,9,Completed,Completed,Completed,6,18,5,Yes,Yes,Yes,1,5.13,No
+P0525,20,US,Android,Organic,No,9,18.6,3,Not Completed,Not Completed,Not Completed,5,6,7,No,No,No,0,0.0,Yes
+P0526,34,India,Android,Social,Yes,8,14.1,6,Completed,Completed,Completed,3,9,5,No,No,No,1,6.31,Yes
+P0527,20,India,iOS,Social,Yes,13,21.1,2,Completed,Completed,Completed,5,1,4,Yes,Yes,Yes,0,0.0,No
+P0528,33,Germany,iOS,Referral,Yes,3,14.5,11,Completed,Completed,Completed,1,20,5,Yes,Yes,No,0,0.0,No
+P0529,21,US,Android,Paid Ads,No,7,16.1,5,Completed,Not Completed,Not Completed,2,11,7,No,No,No,0,0.0,Yes
+P0530,35,Canada,Android,Social,Yes,7,12.8,3,Completed,Completed,Completed,3,4,6,No,No,No,0,0.0,Yes
+P0531,34,US,iOS,Organic,Yes,7,20.9,5,Completed,Not Completed,Completed,3,12,3,No,No,No,3,34.02,Yes
+P0532,24,India,iOS,Paid Ads,Yes,14,15.9,3,Completed,Completed,Completed,4,4,6,Yes,Yes,Yes,1,2.08,No
+P0533,40,India,iOS,Organic,Yes,7,28.3,9,Completed,Completed,Completed,2,17,5,Yes,No,No,1,2.6,Yes
+P0534,22,UK,iOS,Organic,Yes,7,24.8,10,Completed,Completed,Completed,3,19,4,Yes,No,No,1,3.51,No
+P0535,29,US,iOS,Organic,Yes,10,21.5,7,Completed,Completed,Completed,6,15,2,Yes,No,No,0,0.0,No
+P0536,34,India,Android,Paid Ads,No,9,16.4,12,Not Completed,Not Completed,Not Completed,6,16,5,No,No,No,0,0.0,Yes
+P0537,40,US,Android,Organic,Yes,15,24.7,5,Completed,Completed,Completed,7,12,5,Yes,Yes,Yes,1,5.47,No
+P0538,30,India,Android,Social,Yes,7,26.8,6,Completed,Completed,Completed,3,11,5,Yes,No,No,0,0.0,No
+P0539,40,US,Android,Referral,Yes,5,23.0,3,Completed,Completed,Not Completed,2,6,3,Yes,Yes,No,2,23.61,No
+P0540,20,India,iOS,Organic,Yes,10,33.2,12,Completed,Completed,Completed,3,22,6,Yes,Yes,No,0,0.0,No
+P0541,26,Canada,iOS,Social,No,8,25.2,6,Not Completed,Not Completed,Not Completed,3,13,5,No,No,No,0,0.0,No
+P0542,34,India,iOS,Social,Yes,9,28.4,12,Completed,Completed,Completed,5,16,5,Yes,Yes,No,1,15.81,No
+P0543,34,US,Android,Organic,Yes,9,22.9,7,Completed,Not Completed,Completed,4,10,6,Yes,No,No,0,0.0,Yes
+P0544,37,India,iOS,Paid Ads,Yes,11,26.7,4,Completed,Completed,Not Completed,7,10,5,Yes,No,No,1,14.37,Yes
+P0545,33,India,iOS,Organic,Yes,7,16.4,4,Completed,Completed,Completed,4,9,6,Yes,Yes,No,0,0.0,No
+P0546,39,US,iOS,Social,Yes,5,18.8,5,Completed,Completed,Completed,2,10,2,Yes,No,No,1,15.62,Yes
+P0547,30,US,iOS,Social,Yes,11,24.4,3,Completed,Completed,Not Completed,5,5,12,Yes,Yes,Yes,2,36.82,No
+P0548,36,US,Android,Paid Ads,No,11,24.4,8,Not Completed,Not Completed,Not Completed,5,15,7,Yes,No,No,0,0.0,No
+P0549,34,India,Android,Paid Ads,No,6,25.6,8,Not Completed,Not Completed,Not Completed,3,16,4,No,No,No,1,6.4,Yes
+P0550,21,UK,Android,Organic,Yes,8,29.7,5,Completed,Not Completed,Completed,4,14,5,Yes,Yes,Yes,0,0.0,No
+P0551,29,Canada,Android,Organic,No,9,12.0,10,Not Completed,Not Completed,Not Completed,6,16,7,Yes,No,No,0,0.0,No
+P0552,26,Canada,Android,Paid Ads,Yes,5,15.2,7,Completed,Not Completed,Completed,3,14,1,Yes,Yes,No,0,0.0,No
+P0553,36,India,iOS,Social,Yes,8,23.6,4,Completed,Completed,Completed,5,12,5,Yes,Yes,Yes,1,13.71,No
+P0554,29,US,iOS,Paid Ads,Yes,13,16.9,9,Completed,Completed,Completed,3,13,6,Yes,Yes,Yes,0,0.0,No
+P0555,26,India,iOS,Paid Ads,Yes,9,45.6,7,Completed,Completed,Completed,3,16,5,Yes,Yes,Yes,1,5.79,No
+P0556,24,India,iOS,Paid Ads,Yes,7,25.6,9,Completed,Completed,Completed,2,16,2,Yes,Yes,No,0,0.0,No
+P0557,31,Germany,Android,Social,Yes,6,21.5,7,Completed,Completed,Completed,2,13,5,Yes,Yes,No,2,27.97,No
+P0558,37,India,iOS,Organic,Yes,9,18.4,2,Completed,Completed,Completed,4,4,2,Yes,No,No,0,0.0,Yes
+P0559,36,US,Android,Paid Ads,Yes,10,18.6,9,Completed,Completed,Completed,5,15,4,Yes,No,No,0,0.0,No
+P0560,32,US,Android,Social,Yes,5,22.2,1,Completed,Not Completed,Completed,2,2,5,Yes,Yes,No,0,0.0,Yes
+P0561,33,UK,Android,Organic,No,10,22.8,7,Completed,Not Completed,Not Completed,7,11,6,No,No,No,1,3.34,Yes
+P0562,38,US,Android,Referral,Yes,7,18.8,3,Completed,Completed,Completed,5,7,3,Yes,Yes,No,1,9.48,No
+P0563,22,India,Android,Referral,Yes,12,20.1,5,Completed,Completed,Completed,4,12,6,Yes,Yes,Yes,1,15.13,No
+P0564,20,India,Android,Social,Yes,10,31.4,4,Completed,Completed,Completed,6,6,6,Yes,No,No,1,14.02,Yes
+P0565,29,US,Android,Organic,Yes,9,31.7,5,Completed,Completed,Completed,4,8,3,Yes,Yes,No,1,6.08,No
+P0566,37,India,iOS,Social,No,9,23.8,4,Completed,Not Completed,Not Completed,4,9,4,Yes,No,No,0,0.0,Yes
+P0567,38,US,Android,Paid Ads,Yes,8,12.6,2,Completed,Completed,Completed,5,3,4,Yes,Yes,No,1,16.12,No
+P0568,21,India,Android,Referral,Yes,8,25.8,3,Completed,Completed,Completed,2,7,7,Yes,Yes,No,1,19.21,Yes
+P0569,38,India,Android,Organic,No,8,32.9,7,Not Completed,Not Completed,Not Completed,5,12,4,No,No,No,1,15.82,No
+P0570,40,US,iOS,Organic,Yes,8,31.6,0,Completed,Completed,Completed,4,1,7,Yes,Yes,No,0,0.0,No
+P0571,33,India,Android,Referral,Yes,13,27.1,9,Completed,Not Completed,Completed,8,16,5,Yes,Yes,Yes,0,0.0,No
+P0572,24,US,Android,Social,Yes,12,32.0,5,Completed,Completed,Not Completed,8,8,2,Yes,Yes,Yes,1,18.72,No
+P0573,30,UK,Android,Social,No,8,22.4,4,Not Completed,Not Completed,Not Completed,4,10,6,No,No,No,1,14.43,Yes
+P0574,38,Canada,Android,Referral,Yes,5,26.4,3,Completed,Completed,Completed,1,6,5,No,No,No,0,0.0,No
+P0575,27,India,Android,Organic,Yes,15,17.2,7,Completed,Completed,Completed,5,11,3,Yes,Yes,No,0,0.0,No
+P0576,24,India,Android,Paid Ads,Yes,11,24.0,3,Completed,Completed,Completed,4,6,2,Yes,Yes,Yes,1,16.68,No
+P0577,31,India,Android,Organic,Yes,12,31.3,3,Completed,Completed,Not Completed,4,9,8,Yes,Yes,Yes,0,0.0,No
+P0578,22,US,Android,Social,Yes,6,17.9,6,Completed,Completed,Completed,4,15,1,Yes,No,No,0,0.0,Yes
+P0579,20,UK,Android,Paid Ads,Yes,14,16.0,8,Completed,Not Completed,Not Completed,5,15,5,Yes,Yes,Yes,0,0.0,No
+P0580,40,India,iOS,Social,Yes,9,22.7,5,Completed,Completed,Completed,6,8,4,Yes,Yes,Yes,0,0.0,No
+P0581,28,Germany,iOS,Referral,No,6,20.4,5,Not Completed,Not Completed,Not Completed,3,10,6,No,No,No,0,0.0,Yes
+P0582,28,India,Android,Social,No,8,26.5,7,Not Completed,Not Completed,Not Completed,3,12,3,No,No,No,1,19.65,Yes
+P0583,35,US,Android,Organic,Yes,9,18.8,5,Completed,Completed,Completed,4,9,5,Yes,No,No,0,0.0,No
+P0584,32,UK,iOS,Organic,No,11,34.0,5,Not Completed,Not Completed,Not Completed,5,9,3,No,No,No,1,18.23,Yes
+P0585,29,Germany,Android,Social,Yes,6,13.0,3,Completed,Completed,Completed,3,5,7,Yes,No,No,1,19.98,No
+P0586,26,UK,Android,Social,Yes,6,30.8,10,Completed,Completed,Completed,3,19,5,No,No,No,0,0.0,Yes
+P0587,27,Canada,iOS,Organic,Yes,5,16.6,4,Completed,Completed,Completed,1,10,7,Yes,No,No,0,0.0,Yes
+P0588,29,India,Android,Social,No,6,9.4,7,Not Completed,Not Completed,Not Completed,3,13,6,No,No,No,1,5.31,Yes
+P0589,34,Canada,Android,Social,No,13,23.7,6,Not Completed,Not Completed,Not Completed,6,14,8,Yes,Yes,No,0,0.0,No
+P0590,23,India,Android,Paid Ads,Yes,3,20.2,4,Completed,Completed,Completed,2,9,6,Yes,Yes,No,1,12.91,Yes
+P0591,24,Germany,iOS,Paid Ads,No,8,14.2,7,Not Completed,Not Completed,Not Completed,5,10,4,No,No,No,0,0.0,Yes
+P0592,31,US,Android,Paid Ads,Yes,10,10.2,6,Completed,Completed,Completed,4,10,4,Yes,Yes,Yes,1,8.97,No
+P0593,30,Canada,iOS,Organic,No,10,21.9,3,Not Completed,Not Completed,Not Completed,3,9,2,No,No,No,0,0.0,Yes
+P0594,25,US,iOS,Organic,No,8,28.8,12,Not Completed,Not Completed,Not Completed,5,19,2,Yes,Yes,No,0,0.0,Yes
+P0595,27,US,Android,Paid Ads,Yes,11,26.1,8,Completed,Completed,Completed,8,13,5,Yes,Yes,Yes,2,7.07,No
+P0596,26,US,Android,Social,No,9,22.4,3,Not Completed,Not Completed,Not Completed,4,8,2,No,No,No,1,17.57,No
+P0597,35,UK,Android,Organic,Yes,11,25.4,8,Completed,Not Completed,Not Completed,4,13,1,Yes,No,No,3,8.53,Yes
+P0598,19,India,Android,Paid Ads,Yes,11,21.8,6,Completed,Completed,Completed,4,12,4,Yes,Yes,No,0,0.0,No
+P0599,22,India,Android,Paid Ads,Yes,4,12.0,7,Completed,Completed,Completed,2,12,6,Yes,Yes,No,0,0.0,No
+P0600,22,India,iOS,Social,Yes,5,12.1,5,Completed,Completed,Completed,2,8,6,Yes,Yes,No,1,15.95,Yes
+P0601,23,India,iOS,Organic,No,8,20.6,7,Not Completed,Not Completed,Not Completed,4,11,9,Yes,No,No,0,0.0,No
+P0602,36,Germany,iOS,Paid Ads,Yes,8,20.9,10,Completed,Completed,Completed,4,14,3,Yes,No,No,1,4.04,Yes
+P0603,25,India,Android,Social,Yes,9,28.0,4,Completed,Completed,Completed,3,6,9,Yes,No,No,0,0.0,No
+P0604,33,Germany,iOS,Paid Ads,No,5,27.3,4,Not Completed,Not Completed,Not Completed,1,9,6,No,No,No,0,0.0,Yes
+P0605,30,India,iOS,Paid Ads,No,10,26.2,5,Not Completed,Not Completed,Not Completed,4,12,11,Yes,No,No,1,18.36,Yes
+P0606,18,India,iOS,Paid Ads,Yes,14,20.0,5,Completed,Completed,Completed,9,8,5,Yes,Yes,Yes,0,0.0,No
+P0607,39,Canada,Android,Social,No,9,12.3,5,Not Completed,Not Completed,Not Completed,4,7,2,Yes,Yes,No,3,44.86,Yes
+P0608,37,UK,iOS,Organic,Yes,10,24.9,14,Completed,Completed,Completed,7,25,7,Yes,Yes,No,0,0.0,No
+P0609,34,US,Android,Paid Ads,No,11,25.7,10,Not Completed,Not Completed,Not Completed,5,19,2,Yes,No,No,1,4.37,No
+P0610,24,US,Android,Paid Ads,Yes,6,5.3,7,Completed,Completed,Completed,2,14,2,Yes,Yes,No,0,0.0,No
+P0611,30,UK,Android,Paid Ads,Yes,7,16.2,6,Completed,Completed,Completed,2,8,5,Yes,Yes,Yes,0,0.0,No
+P0612,21,India,iOS,Organic,Yes,6,17.2,2,Completed,Completed,Completed,3,6,7,No,No,No,0,0.0,Yes
+P0613,21,Germany,iOS,Organic,Yes,11,22.8,3,Completed,Completed,Completed,5,8,4,Yes,No,No,0,0.0,No
+P0614,23,Germany,Android,Referral,Yes,8,16.4,9,Completed,Not Completed,Completed,4,17,6,Yes,No,No,0,0.0,Yes
+P0615,36,UK,Android,Paid Ads,Yes,10,21.7,8,Completed,Completed,Completed,6,14,6,Yes,Yes,Yes,1,6.19,No
+P0616,29,India,Android,Referral,Yes,12,20.5,3,Completed,Not Completed,Completed,7,5,2,Yes,Yes,No,1,9.91,No
+P0617,39,UK,Android,Paid Ads,No,8,20.9,7,Not Completed,Not Completed,Not Completed,2,12,10,No,No,No,1,12.14,Yes
+P0618,24,India,Android,Social,Yes,9,17.0,7,Completed,Not Completed,Completed,6,15,4,Yes,Yes,Yes,1,18.49,No
+P0619,27,India,Android,Paid Ads,Yes,10,17.5,4,Completed,Completed,Completed,5,9,4,Yes,Yes,Yes,1,18.05,No
+P0620,36,India,iOS,Referral,Yes,10,14.4,8,Completed,Not Completed,Completed,4,11,4,Yes,Yes,No,0,0.0,No
+P0621,24,US,Android,Social,Yes,6,24.7,10,Completed,Not Completed,Completed,3,20,3,Yes,Yes,Yes,0,0.0,No
+P0622,20,Canada,Android,Paid Ads,No,11,26.0,12,Not Completed,Not Completed,Not Completed,6,22,3,No,No,No,0,0.0,Yes
+P0623,30,UK,Android,Organic,No,9,16.6,5,Not Completed,Not Completed,Not Completed,3,13,7,No,No,No,1,5.65,No
+P0624,30,UK,iOS,Social,Yes,12,32.6,6,Completed,Completed,Completed,5,13,7,Yes,Yes,Yes,0,0.0,No
+P0625,35,US,iOS,Paid Ads,Yes,9,19.8,7,Completed,Completed,Completed,4,11,7,Yes,Yes,No,0,0.0,No
+P0626,37,India,iOS,Organic,No,6,32.7,6,Not Completed,Not Completed,Not Completed,2,12,3,No,No,No,0,0.0,Yes
+P0627,25,US,Android,Organic,Yes,10,17.5,6,Completed,Not Completed,Completed,3,12,5,Yes,No,No,0,0.0,Yes
+P0628,26,Germany,iOS,Organic,No,10,7.8,4,Not Completed,Not Completed,Not Completed,3,5,7,No,No,No,2,18.67,Yes
+P0629,24,India,Android,Organic,Yes,10,24.8,7,Completed,Completed,Completed,3,10,7,Yes,Yes,No,0,0.0,No
+P0630,18,Canada,iOS,Organic,No,6,23.7,3,Completed,Not Completed,Not Completed,3,8,4,No,No,No,1,14.41,Yes
+P0631,20,US,iOS,Social,Yes,11,22.2,6,Completed,Not Completed,Completed,7,13,8,Yes,Yes,No,2,32.28,No
+P0632,30,US,iOS,Referral,Yes,11,17.5,5,Completed,Completed,Completed,4,14,8,Yes,Yes,Yes,0,0.0,No
+P0633,34,UK,iOS,Social,No,10,21.8,4,Not Completed,Not Completed,Not Completed,4,7,5,No,No,No,0,0.0,Yes
+P0634,18,US,iOS,Organic,Yes,9,18.4,2,Completed,Completed,Completed,4,2,10,Yes,Yes,Yes,1,18.01,No
+P0635,23,Germany,Android,Organic,Yes,9,19.9,6,Completed,Completed,Completed,5,11,6,Yes,Yes,Yes,0,0.0,No
+P0636,38,Germany,iOS,Paid Ads,Yes,11,27.9,8,Completed,Completed,Completed,3,16,9,Yes,Yes,No,2,9.76,Yes
+P0637,23,US,Android,Social,Yes,11,23.3,7,Completed,Completed,Completed,4,12,8,Yes,Yes,Yes,0,0.0,No
+P0638,29,India,Android,Paid Ads,Yes,4,26.3,2,Completed,Completed,Completed,1,5,6,Yes,No,No,1,19.51,No
+P0639,30,US,Android,Paid Ads,Yes,15,20.4,11,Completed,Not Completed,Completed,10,17,4,Yes,Yes,Yes,0,0.0,No
+P0640,30,Germany,Android,Paid Ads,Yes,12,19.6,9,Completed,Completed,Not Completed,6,18,2,Yes,Yes,Yes,1,7.07,No
+P0641,32,India,Android,Organic,Yes,9,13.9,6,Completed,Completed,Completed,3,12,3,Yes,Yes,No,0,0.0,No
+P0642,38,US,Android,Paid Ads,No,9,19.4,7,Not Completed,Not Completed,Not Completed,3,11,1,No,No,No,0,0.0,Yes
+P0643,33,US,Android,Organic,Yes,9,5.0,8,Completed,Completed,Completed,3,13,8,Yes,Yes,Yes,0,0.0,No
+P0644,39,UK,iOS,Referral,Yes,10,17.9,7,Completed,Completed,Not Completed,3,11,7,Yes,Yes,No,2,23.61,No
+P0645,38,India,Android,Paid Ads,Yes,13,21.4,3,Completed,Completed,Completed,8,3,5,Yes,Yes,Yes,1,18.73,Yes
+P0646,28,UK,Android,Organic,Yes,14,25.9,6,Completed,Not Completed,Completed,7,9,2,Yes,Yes,Yes,0,0.0,No
+P0647,22,Germany,iOS,Organic,Yes,12,20.1,6,Completed,Completed,Completed,6,7,7,Yes,Yes,No,0,0.0,No
+P0648,21,India,Android,Organic,Yes,8,24.4,6,Completed,Completed,Completed,3,13,12,Yes,Yes,No,1,15.05,No
+P0649,20,India,iOS,Paid Ads,Yes,8,6.7,8,Completed,Completed,Completed,4,16,5,Yes,Yes,No,0,0.0,No
+P0650,36,Germany,iOS,Organic,Yes,6,21.6,7,Completed,Completed,Completed,2,12,3,Yes,No,No,0,0.0,Yes
+P0651,37,India,iOS,Social,Yes,7,10.2,8,Completed,Completed,Completed,3,14,4,Yes,Yes,No,1,9.05,No
+P0652,35,Canada,iOS,Organic,Yes,4,13.5,1,Completed,Not Completed,Completed,2,6,5,No,No,No,1,2.22,Yes
+P0653,32,US,Android,Paid Ads,Yes,10,20.7,8,Completed,Completed,Completed,3,16,6,Yes,Yes,Yes,1,19.44,Yes
+P0654,26,India,iOS,Paid Ads,Yes,14,30.9,4,Completed,Completed,Not Completed,7,12,3,Yes,No,No,1,11.58,Yes
+P0655,34,Germany,Android,Paid Ads,Yes,8,24.6,7,Completed,Not Completed,Completed,5,13,3,Yes,No,No,0,0.0,Yes
+P0656,31,US,Android,Paid Ads,Yes,8,22.1,4,Completed,Completed,Completed,2,11,1,Yes,Yes,Yes,1,6.64,No
+P0657,32,US,iOS,Organic,No,12,21.9,8,Completed,Not Completed,Not Completed,8,14,5,No,No,No,0,0.0,Yes
+P0658,18,US,Android,Organic,Yes,7,17.0,5,Completed,Completed,Completed,2,9,2,No,No,No,1,12.21,Yes
+P0659,38,US,iOS,Paid Ads,Yes,10,18.2,7,Completed,Completed,Completed,4,14,4,Yes,No,No,1,9.63,No
+P0660,39,India,iOS,Social,Yes,14,25.0,5,Completed,Completed,Completed,7,11,2,Yes,Yes,Yes,0,0.0,No
+P0661,39,US,iOS,Social,Yes,12,12.3,9,Completed,Completed,Completed,6,14,7,Yes,No,No,2,21.78,Yes
+P0662,20,Germany,iOS,Organic,Yes,12,26.2,8,Completed,Completed,Completed,4,12,3,Yes,No,No,1,13.83,No
+P0663,33,India,Android,Organic,Yes,9,19.3,3,Completed,Not Completed,Completed,5,7,9,No,No,No,1,2.28,Yes
+P0664,40,UK,Android,Organic,No,13,27.8,4,Not Completed,Not Completed,Not Completed,9,4,6,Yes,No,No,0,0.0,Yes
+P0665,28,India,iOS,Referral,Yes,13,28.7,9,Completed,Completed,Not Completed,4,15,5,Yes,Yes,No,0,0.0,No
+P0666,29,Canada,Android,Organic,No,16,10.3,4,Not Completed,Not Completed,Not Completed,10,6,2,Yes,No,No,0,0.0,No
+P0667,27,India,iOS,Social,Yes,5,17.9,1,Completed,Completed,Completed,3,2,5,Yes,Yes,Yes,0,0.0,No
+P0668,33,Germany,iOS,Organic,Yes,7,16.0,2,Completed,Not Completed,Completed,5,3,5,No,No,No,0,0.0,Yes
+P0669,25,US,iOS,Paid Ads,Yes,6,9.3,7,Completed,Completed,Completed,2,14,8,Yes,No,No,1,10.75,No
+P0670,23,India,Android,Organic,Yes,9,14.8,4,Completed,Completed,Completed,5,9,2,Yes,Yes,No,0,0.0,No
+P0671,29,India,Android,Referral,Yes,11,39.1,9,Completed,Completed,Completed,3,16,5,Yes,No,No,1,8.88,No
+P0672,38,India,Android,Referral,Yes,8,26.3,11,Completed,Completed,Completed,5,18,5,Yes,Yes,No,0,0.0,No
+P0673,25,US,Android,Organic,Yes,8,35.4,5,Completed,Completed,Completed,4,12,6,Yes,No,No,0,0.0,No
+P0674,21,India,iOS,Referral,No,4,27.8,8,Completed,Not Completed,Not Completed,2,16,1,No,No,No,0,0.0,Yes
+P0675,25,Canada,Android,Referral,No,11,16.8,5,Not Completed,Not Completed,Not Completed,4,9,3,No,No,No,1,19.39,Yes
+P0676,35,US,Android,Paid Ads,Yes,10,19.3,7,Completed,Completed,Completed,6,15,9,No,No,No,0,0.0,Yes
+P0677,22,India,Android,Paid Ads,Yes,9,26.1,3,Completed,Completed,Completed,5,6,6,Yes,Yes,Yes,0,0.0,No
+P0678,26,US,iOS,Organic,Yes,10,25.1,5,Completed,Not Completed,Completed,4,10,5,Yes,Yes,Yes,1,2.78,No
+P0679,21,UK,iOS,Social,Yes,8,18.0,6,Completed,Completed,Completed,4,10,4,Yes,Yes,No,0,0.0,No
+P0680,39,India,Android,Organic,Yes,8,11.4,6,Completed,Completed,Completed,5,10,3,Yes,No,No,0,0.0,Yes
+P0681,34,India,Android,Organic,Yes,11,45.0,5,Completed,Completed,Completed,4,8,11,Yes,Yes,Yes,2,7.4,No
+P0682,26,India,Android,Referral,Yes,7,21.0,10,Completed,Not Completed,Completed,2,18,6,Yes,Yes,Yes,1,11.88,No
+P0683,18,UK,Android,Organic,Yes,7,19.7,9,Completed,Completed,Completed,5,16,3,Yes,No,No,0,0.0,No
+P0684,38,UK,iOS,Paid Ads,No,9,22.8,6,Not Completed,Not Completed,Not Completed,4,9,7,No,No,No,1,15.52,Yes
+P0685,37,US,iOS,Paid Ads,Yes,12,20.3,7,Completed,Completed,Not Completed,5,14,6,Yes,Yes,No,0,0.0,No
+P0686,30,Canada,Android,Referral,No,9,22.9,1,Not Completed,Not Completed,Not Completed,3,7,2,No,No,No,0,0.0,Yes
+P0687,33,Canada,Android,Referral,Yes,12,31.0,3,Completed,Completed,Completed,8,5,4,Yes,Yes,Yes,0,0.0,No
+P0688,30,US,iOS,Organic,Yes,9,21.1,3,Completed,Completed,Completed,3,5,5,Yes,Yes,Yes,0,0.0,No
+P0689,31,Canada,Android,Organic,Yes,11,13.9,14,Completed,Completed,Completed,6,23,2,Yes,Yes,No,1,16.0,No
+P0690,20,India,iOS,Social,Yes,7,20.9,4,Completed,Completed,Completed,5,11,2,Yes,No,No,0,0.0,Yes
+P0691,23,India,Android,Organic,Yes,9,18.7,6,Completed,Completed,Completed,2,10,4,Yes,Yes,No,0,0.0,No
+P0692,35,India,Android,Organic,Yes,8,32.0,7,Completed,Completed,Completed,5,16,6,Yes,No,No,2,13.12,No
+P0693,36,India,Android,Social,Yes,8,30.2,4,Completed,Completed,Completed,3,6,4,Yes,Yes,No,0,0.0,Yes
+P0694,22,US,Android,Paid Ads,Yes,4,22.8,5,Completed,Completed,Completed,2,10,6,No,No,No,1,12.19,Yes
+P0695,32,Germany,iOS,Social,Yes,12,13.0,2,Completed,Completed,Completed,5,2,8,Yes,No,No,2,25.06,No
+P0696,19,India,Android,Organic,Yes,8,13.4,7,Completed,Completed,Completed,5,11,7,Yes,Yes,Yes,1,5.78,No
+P0697,27,India,Android,Paid Ads,Yes,7,22.1,6,Completed,Completed,Completed,3,11,8,Yes,Yes,No,0,0.0,No
+P0698,35,US,Android,Organic,Yes,12,24.4,6,Completed,Not Completed,Completed,3,12,5,Yes,No,No,0,0.0,Yes
+P0699,30,Germany,Android,Organic,Yes,3,19.4,10,Completed,Completed,Completed,2,19,1,Yes,No,No,1,17.93,Yes
+P0700,22,India,Android,Paid Ads,Yes,8,18.6,6,Completed,Completed,Completed,2,10,5,Yes,No,No,0,0.0,Yes
+P0701,40,US,Android,Paid Ads,No,10,17.9,7,Not Completed,Not Completed,Not Completed,6,13,5,No,No,No,0,0.0,Yes
+P0702,18,India,iOS,Paid Ads,Yes,9,21.8,7,Completed,Completed,Completed,3,10,7,Yes,Yes,Yes,1,14.12,No
+P0703,39,India,Android,Organic,No,13,5.3,5,Not Completed,Not Completed,Not Completed,6,12,2,Yes,Yes,No,0,0.0,No
+P0704,18,Germany,Android,Paid Ads,Yes,7,14.3,8,Completed,Completed,Completed,4,17,6,Yes,Yes,No,1,6.08,No
+P0705,35,Germany,iOS,Paid Ads,Yes,14,17.6,6,Completed,Completed,Completed,5,13,6,Yes,Yes,Yes,1,17.88,No
+P0706,32,India,Android,Social,Yes,12,30.5,8,Completed,Completed,Completed,8,16,3,Yes,Yes,Yes,1,11.59,No
+P0707,34,Germany,iOS,Paid Ads,Yes,13,16.3,5,Completed,Completed,Completed,6,9,5,Yes,Yes,Yes,0,0.0,No
+P0708,28,US,Android,Referral,Yes,5,23.3,6,Completed,Completed,Completed,2,12,7,No,No,No,1,19.82,Yes
+P0709,38,Canada,iOS,Social,No,15,23.6,5,Not Completed,Not Completed,Not Completed,8,9,4,Yes,Yes,No,2,39.46,No
+P0710,39,US,iOS,Social,Yes,5,31.1,7,Completed,Completed,Completed,2,12,3,Yes,No,No,0,0.0,Yes
+P0711,34,US,iOS,Referral,Yes,13,30.8,6,Completed,Not Completed,Completed,5,10,2,Yes,Yes,No,1,2.61,No
+P0712,30,US,iOS,Paid Ads,Yes,6,21.6,2,Completed,Completed,Completed,3,6,4,Yes,No,No,1,9.13,No
+P0713,18,UK,Android,Social,No,7,18.7,4,Completed,Not Completed,Not Completed,3,9,8,Yes,No,No,0,0.0,Yes
+P0714,19,India,iOS,Paid Ads,Yes,13,17.4,5,Completed,Completed,Completed,4,11,9,Yes,Yes,No,1,7.19,No
+P0715,26,India,Android,Social,Yes,10,20.3,6,Completed,Completed,Completed,6,12,11,Yes,No,No,2,39.97,Yes
+P0716,20,India,Android,Organic,Yes,11,19.0,8,Completed,Completed,Completed,7,16,4,Yes,Yes,No,1,3.52,Yes
+P0717,18,UK,Android,Social,No,10,25.9,9,Not Completed,Not Completed,Not Completed,5,14,8,Yes,No,No,1,12.23,No
+P0718,38,India,Android,Referral,No,9,24.9,8,Not Completed,Not Completed,Not Completed,4,17,2,No,No,No,0,0.0,Yes
+P0719,33,UK,Android,Referral,Yes,12,26.1,6,Completed,Completed,Not Completed,7,11,2,Yes,Yes,No,0,0.0,No
+P0720,40,Germany,iOS,Organic,No,8,30.8,4,Not Completed,Not Completed,Not Completed,4,4,8,Yes,No,No,0,0.0,Yes
+P0721,23,India,Android,Social,No,11,35.0,11,Not Completed,Not Completed,Not Completed,5,18,3,No,No,No,0,0.0,Yes
+P0722,34,UK,iOS,Organic,Yes,8,22.9,5,Completed,Completed,Completed,6,11,6,Yes,Yes,No,1,6.14,No
+P0723,22,US,iOS,Referral,Yes,17,29.7,12,Completed,Completed,Completed,5,20,6,Yes,Yes,Yes,2,17.83,No
+P0724,22,Canada,Android,Referral,Yes,8,19.5,8,Completed,Completed,Completed,4,10,6,Yes,Yes,Yes,0,0.0,No
+P0725,23,India,Android,Paid Ads,No,13,30.3,4,Not Completed,Not Completed,Not Completed,8,8,4,Yes,No,No,3,22.08,Yes
+P0726,20,UK,Android,Paid Ads,Yes,6,29.4,2,Completed,Completed,Completed,3,5,2,Yes,No,No,0,0.0,Yes
+P0727,38,Canada,Android,Paid Ads,No,8,29.1,5,Not Completed,Not Completed,Not Completed,5,8,4,Yes,No,No,1,4.98,Yes
+P0728,40,Germany,Android,Social,Yes,12,22.7,8,Completed,Completed,Completed,5,15,7,Yes,Yes,Yes,1,6.76,No
+P0729,22,UK,Android,Organic,No,9,17.3,3,Not Completed,Not Completed,Not Completed,3,6,5,No,No,No,1,4.61,Yes
+P0730,38,US,Android,Social,Yes,12,12.2,5,Completed,Completed,Completed,8,6,5,Yes,Yes,Yes,1,3.88,No
+P0731,22,US,iOS,Paid Ads,Yes,7,21.7,10,Completed,Not Completed,Completed,3,18,5,Yes,Yes,No,1,7.41,No
+P0732,27,Canada,iOS,Paid Ads,No,10,32.7,3,Not Completed,Not Completed,Not Completed,6,7,4,Yes,Yes,No,0,0.0,No
+P0733,27,US,Android,Social,No,8,19.8,3,Completed,Not Completed,Not Completed,3,10,4,Yes,No,No,0,0.0,Yes
+P0734,36,India,iOS,Referral,No,6,27.5,8,Not Completed,Not Completed,Not Completed,4,12,2,No,No,No,2,11.67,Yes
+P0735,34,Germany,Android,Organic,Yes,9,27.9,1,Completed,Completed,Completed,4,3,4,Yes,No,No,0,0.0,No
+P0736,38,UK,Android,Social,Yes,5,20.0,9,Completed,Completed,Completed,2,18,3,Yes,No,No,0,0.0,No
+P0737,31,UK,iOS,Paid Ads,Yes,5,31.2,7,Completed,Completed,Completed,2,11,5,Yes,No,No,0,0.0,Yes
+P0738,26,India,Android,Paid Ads,Yes,5,5.0,2,Completed,Not Completed,Completed,3,7,3,Yes,Yes,Yes,0,0.0,No
+P0739,31,UK,Android,Paid Ads,Yes,13,13.4,8,Completed,Completed,Completed,3,16,6,Yes,Yes,No,1,2.16,No
+P0740,18,US,iOS,Organic,Yes,7,15.6,6,Completed,Completed,Completed,4,12,8,Yes,Yes,Yes,2,27.47,No
+P0741,36,UK,iOS,Organic,Yes,10,16.3,7,Completed,Not Completed,Completed,5,12,5,Yes,No,No,1,13.35,No
+P0742,30,India,iOS,Paid Ads,No,9,24.4,9,Not Completed,Not Completed,Not Completed,3,14,6,No,No,No,1,11.32,Yes
+P0743,30,UK,iOS,Social,Yes,5,24.0,8,Completed,Completed,Completed,3,13,2,Yes,Yes,No,0,0.0,Yes
+P0744,21,Germany,iOS,Organic,Yes,11,24.8,9,Completed,Completed,Not Completed,4,16,7,Yes,Yes,Yes,2,32.71,No
+P0745,18,India,Android,Paid Ads,Yes,14,26.2,5,Completed,Not Completed,Completed,5,4,4,Yes,Yes,Yes,0,0.0,Yes
+P0746,34,Germany,Android,Social,Yes,8,15.3,8,Completed,Completed,Completed,4,13,7,No,No,No,1,6.14,Yes
+P0747,25,US,Android,Paid Ads,Yes,7,13.5,7,Completed,Completed,Completed,4,11,3,No,No,No,1,7.58,Yes
+P0748,19,Germany,Android,Paid Ads,No,12,24.8,9,Not Completed,Not Completed,Not Completed,8,14,7,Yes,No,No,0,0.0,No
+P0749,25,Canada,Android,Organic,No,7,17.6,5,Not Completed,Not Completed,Not Completed,2,10,5,No,No,No,1,5.85,Yes
+P0750,24,US,Android,Organic,No,9,11.0,7,Completed,Not Completed,Not Completed,4,10,4,No,No,No,2,25.87,Yes
+P0751,19,UK,iOS,Paid Ads,No,7,28.8,3,Not Completed,Not Completed,Not Completed,2,9,7,No,No,No,1,17.92,Yes
+P0752,39,Germany,iOS,Paid Ads,Yes,14,31.8,8,Completed,Completed,Completed,8,16,5,No,No,No,1,12.72,Yes
+P0753,39,US,iOS,Paid Ads,Yes,8,32.9,5,Completed,Completed,Completed,4,12,6,Yes,No,No,0,0.0,Yes
+P0754,20,India,Android,Paid Ads,Yes,6,23.3,6,Completed,Not Completed,Completed,3,10,7,No,No,No,0,0.0,Yes
+P0755,35,UK,iOS,Paid Ads,Yes,9,26.4,7,Completed,Completed,Completed,4,13,6,No,No,No,1,15.46,No
+P0756,29,Canada,Android,Referral,Yes,6,31.6,5,Completed,Not Completed,Completed,4,11,8,Yes,No,No,1,8.61,Yes
+P0757,18,UK,iOS,Social,Yes,13,17.5,9,Completed,Completed,Completed,6,15,4,Yes,No,No,0,0.0,Yes
+P0758,39,Canada,Android,Social,Yes,12,29.8,6,Completed,Not Completed,Completed,8,10,7,Yes,Yes,Yes,0,0.0,No
+P0759,29,US,iOS,Social,Yes,12,23.9,6,Completed,Not Completed,Completed,3,11,5,Yes,Yes,Yes,0,0.0,No
+P0760,22,Canada,Android,Organic,Yes,9,28.4,7,Completed,Completed,Completed,4,12,5,Yes,No,No,1,8.59,Yes
+P0761,34,India,iOS,Social,Yes,6,23.3,6,Completed,Completed,Completed,4,9,5,Yes,No,No,1,3.9,Yes
+P0762,33,US,iOS,Organic,Yes,10,31.1,3,Completed,Completed,Completed,5,2,4,Yes,Yes,No,1,19.78,No
+P0763,32,India,Android,Referral,Yes,13,23.6,8,Completed,Completed,Completed,3,12,2,Yes,No,No,1,3.55,No
+P0764,40,India,Android,Social,Yes,15,11.6,9,Completed,Not Completed,Completed,10,11,5,Yes,Yes,No,1,5.03,No
+P0765,32,US,iOS,Social,No,5,32.2,11,Not Completed,Not Completed,Not Completed,2,17,7,No,No,No,0,0.0,Yes
+P0766,22,US,Android,Social,Yes,7,15.4,2,Completed,Completed,Not Completed,3,8,4,No,No,No,0,0.0,No
+P0767,38,UK,iOS,Organic,Yes,12,30.8,3,Completed,Completed,Not Completed,6,3,6,Yes,Yes,Yes,1,8.41,No
+P0768,31,US,iOS,Organic,No,10,21.4,6,Not Completed,Not Completed,Not Completed,5,12,4,No,No,No,1,15.83,Yes
+P0769,19,US,Android,Social,Yes,11,30.2,4,Completed,Not Completed,Completed,7,10,3,No,No,No,2,28.34,Yes
+P0770,28,India,Android,Organic,Yes,6,29.9,7,Completed,Completed,Completed,3,9,2,Yes,No,No,0,0.0,Yes
+P0771,36,US,Android,Paid Ads,Yes,5,25.0,7,Completed,Not Completed,Completed,2,16,3,No,No,No,0,0.0,Yes
+P0772,24,India,iOS,Referral,Yes,6,25.6,4,Completed,Not Completed,Completed,3,8,5,Yes,No,No,6,13.53,No
+P0773,23,India,Android,Referral,No,9,25.0,5,Not Completed,Not Completed,Not Completed,4,12,11,No,No,No,2,37.45,Yes
+P0774,19,US,Android,Paid Ads,No,13,7.9,4,Completed,Not Completed,Not Completed,9,9,4,Yes,No,No,0,0.0,Yes
+P0775,23,UK,Android,Organic,Yes,7,22.8,6,Completed,Completed,Completed,4,10,6,Yes,Yes,No,0,0.0,No
+P0776,35,US,iOS,Referral,Yes,17,14.2,7,Completed,Completed,Completed,8,7,8,Yes,Yes,Yes,1,16.28,No
+P0777,19,US,iOS,Referral,Yes,6,23.2,5,Completed,Completed,Completed,2,7,8,No,No,No,0,0.0,Yes
+P0778,35,US,iOS,Organic,Yes,8,14.0,4,Completed,Completed,Completed,5,9,4,Yes,Yes,No,1,5.66,Yes
+P0779,32,Canada,Android,Paid Ads,Yes,11,13.7,6,Completed,Completed,Completed,3,14,12,Yes,Yes,Yes,3,23.24,No
+P0780,36,US,iOS,Organic,Yes,8,33.2,10,Completed,Completed,Completed,3,14,7,Yes,Yes,Yes,1,7.67,No
+P0781,19,US,iOS,Paid Ads,Yes,11,29.5,9,Completed,Completed,Completed,4,15,1,Yes,Yes,No,0,0.0,No
+P0782,37,India,iOS,Referral,Yes,7,22.0,5,Completed,Completed,Completed,2,9,1,Yes,No,No,0,0.0,No
+P0783,23,India,iOS,Organic,Yes,9,23.3,4,Completed,Completed,Not Completed,6,9,7,Yes,Yes,Yes,2,8.9,No
+P0784,18,US,Android,Referral,Yes,11,20.3,5,Completed,Completed,Completed,6,10,3,Yes,Yes,Yes,1,2.95,No
+P0785,32,US,Android,Paid Ads,Yes,6,26.0,6,Completed,Completed,Not Completed,4,10,4,Yes,No,No,0,0.0,Yes
+P0786,40,US,iOS,Referral,No,7,17.3,5,Not Completed,Not Completed,Not Completed,2,11,2,No,No,No,1,18.28,Yes
+P0787,27,US,Android,Social,Yes,11,29.0,6,Completed,Not Completed,Completed,5,10,3,Yes,No,No,2,31.51,Yes
+P0788,36,US,iOS,Paid Ads,Yes,4,20.2,4,Completed,Completed,Completed,3,8,8,Yes,No,No,1,16.86,No
+P0789,34,UK,iOS,Organic,No,2,19.1,10,Not Completed,Not Completed,Not Completed,1,19,4,No,No,No,0,0.0,Yes
+P0790,22,Canada,Android,Organic,Yes,6,22.2,10,Completed,Completed,Completed,3,16,10,No,No,No,1,17.98,Yes
+P0791,21,UK,iOS,Organic,Yes,15,17.9,9,Completed,Completed,Completed,5,15,4,Yes,Yes,No,1,10.94,No
+P0792,27,Germany,Android,Referral,Yes,9,24.3,2,Completed,Completed,Not Completed,5,4,3,Yes,Yes,Yes,1,19.79,No
+P0793,34,India,Android,Paid Ads,Yes,8,18.2,8,Completed,Completed,Completed,3,15,3,Yes,Yes,No,0,0.0,No
+P0794,27,India,iOS,Referral,Yes,8,25.3,8,Completed,Completed,Completed,4,15,3,Yes,Yes,Yes,1,16.57,No
+P0795,34,India,iOS,Referral,Yes,12,30.5,13,Completed,Completed,Completed,6,20,5,Yes,Yes,Yes,1,13.55,No
+P0796,37,US,Android,Organic,Yes,9,17.0,3,Completed,Completed,Completed,5,7,5,Yes,Yes,No,0,0.0,No
+P0797,22,Germany,Android,Social,No,3,21.1,4,Not Completed,Not Completed,Not Completed,2,2,8,Yes,No,No,0,0.0,No
+P0798,19,India,iOS,Organic,Yes,15,25.2,7,Completed,Completed,Completed,8,14,7,Yes,Yes,Yes,0,0.0,No
+P0799,23,Germany,iOS,Organic,Yes,10,18.9,5,Completed,Not Completed,Completed,3,11,5,No,No,No,1,17.53,Yes
+P0800,38,India,iOS,Organic,No,6,25.3,7,Not Completed,Not Completed,Not Completed,3,11,1,No,No,No,0,0.0,Yes
+P0801,19,Germany,Android,Social,Yes,12,25.9,6,Completed,Not Completed,Completed,7,10,4,Yes,Yes,No,3,16.64,Yes
+P0802,30,US,Android,Organic,No,8,29.6,3,Not Completed,Not Completed,Not Completed,3,6,6,Yes,No,No,0,0.0,Yes
+P0803,28,India,Android,Organic,Yes,7,17.8,8,Completed,Completed,Completed,3,12,4,Yes,No,No,2,8.75,Yes
+P0804,28,US,iOS,Organic,No,10,15.4,13,Not Completed,Not Completed,Not Completed,3,20,4,Yes,No,No,0,0.0,No
+P0805,33,India,Android,Organic,Yes,10,19.8,9,Completed,Completed,Completed,4,16,3,Yes,Yes,Yes,0,0.0,No
+P0806,28,India,Android,Referral,No,8,15.2,8,Not Completed,Not Completed,Not Completed,6,16,3,No,No,No,0,0.0,Yes
+P0807,36,India,iOS,Paid Ads,No,6,26.0,7,Completed,Not Completed,Not Completed,2,13,3,No,No,No,1,15.64,Yes
+P0808,32,Canada,Android,Referral,Yes,7,13.9,5,Completed,Completed,Completed,3,15,7,Yes,No,No,0,0.0,No
+P0809,40,US,iOS,Social,Yes,8,38.3,9,Completed,Completed,Completed,5,18,8,Yes,Yes,No,0,0.0,Yes
+P0810,40,India,iOS,Organic,Yes,14,31.1,7,Completed,Completed,Completed,4,14,6,Yes,Yes,No,0,0.0,No
+P0811,33,US,iOS,Paid Ads,Yes,8,22.1,8,Completed,Completed,Completed,5,15,6,Yes,Yes,No,0,0.0,Yes
+P0812,28,UK,Android,Organic,Yes,9,28.1,5,Completed,Completed,Completed,4,10,2,Yes,Yes,No,1,15.65,No
+P0813,39,India,Android,Organic,Yes,3,10.5,5,Completed,Completed,Completed,2,11,9,Yes,No,No,0,0.0,No
+P0814,33,US,iOS,Organic,Yes,9,39.7,6,Completed,Completed,Completed,2,11,7,Yes,Yes,Yes,2,15.83,No
+P0815,25,India,iOS,Organic,Yes,5,17.9,6,Completed,Not Completed,Completed,2,13,5,Yes,No,No,0,0.0,Yes
+P0816,21,India,iOS,Organic,Yes,11,21.2,11,Completed,Completed,Completed,4,18,6,No,No,No,0,0.0,Yes
+P0817,25,UK,Android,Social,Yes,12,9.0,8,Completed,Not Completed,Completed,5,13,4,Yes,Yes,Yes,1,15.45,No
+P0818,21,India,iOS,Paid Ads,Yes,8,25.4,1,Completed,Completed,Completed,5,6,6,Yes,Yes,Yes,0,0.0,No
+P0819,20,US,iOS,Organic,Yes,12,14.3,5,Completed,Completed,Completed,3,9,5,No,No,No,2,12.6,No
+P0820,20,UK,iOS,Organic,Yes,11,22.7,7,Completed,Completed,Completed,6,11,5,Yes,Yes,No,1,5.09,No
+P0821,35,India,iOS,Paid Ads,Yes,12,18.2,9,Completed,Completed,Completed,4,14,4,Yes,Yes,Yes,1,2.9,No
+P0822,36,US,iOS,Organic,Yes,13,14.5,9,Completed,Completed,Not Completed,8,17,2,Yes,Yes,Yes,1,2.82,No
+P0823,36,India,iOS,Organic,Yes,8,16.4,4,Completed,Completed,Completed,5,13,5,Yes,Yes,No,1,5.37,No
+P0824,38,Germany,Android,Referral,Yes,8,23.6,11,Completed,Completed,Completed,4,17,6,Yes,Yes,No,1,3.81,Yes
+P0825,22,US,Android,Organic,No,9,13.0,7,Completed,Not Completed,Not Completed,3,14,4,No,No,No,0,0.0,Yes
+P0826,35,Canada,Android,Organic,Yes,11,16.8,3,Completed,Not Completed,Completed,6,7,6,No,No,No,0,0.0,Yes
+P0827,27,US,Android,Social,Yes,12,26.6,8,Completed,Not Completed,Completed,4,16,3,Yes,Yes,Yes,0,0.0,No
+P0828,39,India,Android,Organic,Yes,11,40.2,8,Completed,Completed,Completed,4,15,8,Yes,No,No,3,38.08,No
+P0829,38,US,Android,Social,No,10,25.3,4,Not Completed,Not Completed,Not Completed,5,10,3,Yes,No,No,0,0.0,Yes
+P0830,23,Germany,Android,Paid Ads,No,4,15.6,9,Not Completed,Not Completed,Not Completed,3,16,5,No,No,No,0,0.0,Yes
+P0831,18,US,Android,Organic,Yes,8,19.4,6,Completed,Completed,Completed,5,9,1,Yes,Yes,Yes,2,13.39,No
+P0832,22,Canada,iOS,Social,Yes,4,22.2,9,Completed,Completed,Completed,2,14,9,Yes,No,No,0,0.0,Yes
+P0833,26,Germany,iOS,Social,No,11,19.6,1,Not Completed,Not Completed,Not Completed,5,4,3,Yes,No,No,0,0.0,Yes
+P0834,29,India,Android,Organic,Yes,8,28.3,5,Completed,Completed,Completed,6,10,2,No,No,No,0,0.0,Yes
+P0835,31,India,iOS,Paid Ads,Yes,7,23.5,3,Completed,Completed,Completed,3,6,10,Yes,No,No,0,0.0,No
+P0836,19,US,Android,Organic,Yes,12,28.4,9,Completed,Completed,Not Completed,5,20,4,Yes,Yes,Yes,1,18.18,No
+P0837,34,US,Android,Social,Yes,8,19.8,12,Completed,Completed,Completed,5,22,6,Yes,Yes,Yes,4,74.5,No
+P0838,31,Canada,Android,Organic,No,13,31.3,12,Completed,Not Completed,Not Completed,5,16,11,No,No,No,1,2.92,Yes
+P0839,30,Germany,Android,Social,No,5,20.8,5,Not Completed,Not Completed,Not Completed,1,9,6,No,No,No,1,2.09,Yes
+P0840,26,US,iOS,Organic,No,9,15.2,7,Not Completed,Not Completed,Not Completed,5,10,3,No,No,No,0,0.0,No
+P0841,32,India,iOS,Paid Ads,Yes,9,37.2,4,Completed,Completed,Completed,3,12,4,No,No,No,0,0.0,Yes
+P0842,39,Canada,Android,Organic,No,5,9.2,7,Not Completed,Not Completed,Not Completed,2,8,7,No,No,No,0,0.0,Yes
+P0843,32,India,Android,Social,Yes,12,16.8,5,Completed,Completed,Completed,5,10,4,Yes,Yes,Yes,2,11.8,No
+P0844,28,Canada,Android,Social,Yes,8,17.6,3,Completed,Completed,Completed,4,7,7,Yes,Yes,Yes,1,17.5,No
+P0845,33,US,Android,Paid Ads,No,9,39.6,4,Not Completed,Not Completed,Not Completed,6,10,5,Yes,No,No,0,0.0,Yes
+P0846,34,UK,Android,Social,Yes,12,34.6,6,Completed,Completed,Completed,4,12,7,Yes,Yes,Yes,1,6.69,Yes
+P0847,21,India,Android,Paid Ads,Yes,4,32.5,8,Completed,Completed,Completed,2,18,7,No,No,No,2,39.03,Yes
+P0848,18,US,iOS,Paid Ads,Yes,11,19.7,2,Completed,Completed,Completed,3,7,1,Yes,No,No,0,0.0,No
+P0849,25,US,iOS,Referral,No,12,39.0,10,Not Completed,Not Completed,Not Completed,6,13,4,No,No,No,3,13.18,Yes
+P0850,34,US,Android,Organic,Yes,4,24.6,4,Completed,Completed,Completed,2,11,10,No,No,No,0,0.0,Yes
+P0851,20,India,iOS,Social,Yes,11,28.8,9,Completed,Completed,Completed,5,16,6,Yes,Yes,No,0,0.0,No
+P0852,37,UK,Android,Paid Ads,Yes,10,23.3,7,Completed,Completed,Completed,4,15,10,Yes,Yes,Yes,0,0.0,No
+P0853,32,Canada,Android,Referral,No,9,21.7,2,Not Completed,Not Completed,Not Completed,5,4,6,No,No,No,1,7.82,Yes
+P0854,32,India,Android,Referral,No,10,20.2,2,Completed,Not Completed,Not Completed,5,3,4,No,No,No,3,40.31,Yes
+P0855,39,India,iOS,Social,Yes,8,20.5,6,Completed,Completed,Completed,3,8,6,Yes,Yes,Yes,0,0.0,No
+P0856,31,India,iOS,Organic,Yes,7,26.3,8,Completed,Completed,Completed,3,16,2,No,No,No,1,17.86,Yes
+P0857,40,US,iOS,Social,Yes,11,24.6,3,Completed,Not Completed,Completed,5,8,5,Yes,No,No,2,23.47,Yes
+P0858,31,US,Android,Paid Ads,No,13,21.8,5,Not Completed,Not Completed,Not Completed,9,8,5,No,No,No,0,0.0,Yes
+P0859,19,US,iOS,Social,Yes,9,32.6,3,Completed,Completed,Not Completed,6,1,3,Yes,Yes,No,0,0.0,No
+P0860,30,India,Android,Social,No,10,5.0,5,Not Completed,Not Completed,Not Completed,6,12,6,No,No,No,1,17.24,Yes
+P0861,31,US,iOS,Paid Ads,Yes,12,25.6,2,Completed,Completed,Not Completed,8,1,1,Yes,Yes,Yes,2,30.06,No
+P0862,36,US,Android,Social,No,10,27.0,6,Not Completed,Not Completed,Not Completed,6,15,3,No,No,No,3,54.89,Yes
+P0863,24,US,Android,Referral,No,7,30.0,9,Not Completed,Not Completed,Not Completed,5,13,4,No,No,No,0,0.0,Yes
+P0864,20,Germany,iOS,Social,Yes,9,21.5,7,Completed,Completed,Completed,2,13,5,Yes,Yes,No,0,0.0,Yes
+P0865,32,India,iOS,Organic,No,7,23.5,5,Not Completed,Not Completed,Not Completed,3,10,3,No,No,No,0,0.0,Yes
+P0866,40,UK,Android,Social,Yes,10,28.9,10,Completed,Not Completed,Completed,6,18,1,Yes,Yes,Yes,0,0.0,No
+P0867,31,US,iOS,Paid Ads,Yes,8,32.4,3,Completed,Completed,Not Completed,4,7,4,Yes,No,No,1,4.95,Yes
+P0868,28,US,Android,Organic,Yes,8,19.9,4,Completed,Completed,Completed,3,8,4,Yes,No,No,2,5.92,No
+P0869,32,UK,iOS,Organic,No,7,23.9,7,Not Completed,Not Completed,Not Completed,3,12,8,No,No,No,2,35.24,Yes
+P0870,30,UK,iOS,Referral,Yes,10,33.8,6,Completed,Completed,Completed,4,11,6,Yes,Yes,No,0,0.0,Yes
+P0871,35,Germany,iOS,Organic,Yes,14,7.1,4,Completed,Completed,Completed,5,7,1,Yes,Yes,Yes,1,12.27,No
+P0872,23,India,iOS,Social,Yes,6,17.2,2,Completed,Completed,Completed,2,5,6,Yes,No,No,1,11.99,Yes
+P0873,20,India,Android,Social,Yes,3,32.3,9,Completed,Completed,Not Completed,1,12,4,Yes,No,No,0,0.0,No
+P0874,36,UK,Android,Social,Yes,6,29.6,1,Completed,Completed,Completed,4,4,3,Yes,Yes,No,0,0.0,No
+P0875,32,US,iOS,Paid Ads,Yes,7,25.7,7,Completed,Completed,Completed,4,12,2,Yes,No,No,2,26.11,No
+P0876,40,India,Android,Organic,No,10,18.9,5,Not Completed,Not Completed,Not Completed,6,11,5,No,No,No,0,0.0,Yes
+P0877,22,India,Android,Social,Yes,12,15.8,9,Completed,Completed,Completed,8,15,5,Yes,Yes,Yes,0,0.0,No
+P0878,27,India,Android,Social,Yes,10,17.9,5,Completed,Completed,Completed,4,11,6,Yes,No,No,0,0.0,No
+P0879,24,Germany,Android,Paid Ads,Yes,6,32.8,6,Completed,Completed,Completed,2,12,2,Yes,No,No,1,18.97,No
+P0880,34,India,iOS,Organic,Yes,11,17.6,4,Completed,Not Completed,Completed,3,8,3,Yes,Yes,No,0,0.0,Yes
+P0881,24,India,Android,Social,No,6,22.7,6,Completed,Not Completed,Not Completed,4,12,0,No,No,No,0,0.0,Yes
+P0882,39,India,iOS,Organic,No,15,16.7,2,Not Completed,Not Completed,Not Completed,4,2,6,Yes,No,No,2,35.51,Yes
+P0883,29,US,Android,Organic,Yes,6,27.9,4,Completed,Completed,Completed,4,11,7,Yes,No,No,1,12.52,No
+P0884,34,India,Android,Organic,No,9,18.2,8,Not Completed,Not Completed,Not Completed,4,13,3,No,No,No,0,0.0,Yes
+P0885,30,US,Android,Organic,No,7,21.3,8,Not Completed,Not Completed,Not Completed,5,14,7,Yes,No,No,2,17.53,No
+P0886,37,India,Android,Paid Ads,No,14,10.2,6,Not Completed,Not Completed,Not Completed,6,9,7,Yes,No,No,2,31.82,Yes
+P0887,21,Canada,Android,Organic,Yes,9,10.7,6,Completed,Completed,Completed,6,9,5,Yes,Yes,No,2,24.9,No
+P0888,27,India,iOS,Referral,No,7,22.1,6,Completed,Not Completed,Not Completed,3,14,5,No,No,No,2,18.46,Yes
+P0889,20,US,Android,Referral,Yes,8,12.7,7,Completed,Completed,Completed,3,13,4,Yes,Yes,Yes,0,0.0,No
+P0890,26,Germany,iOS,Social,Yes,6,36.7,9,Completed,Completed,Completed,3,15,5,Yes,Yes,Yes,1,15.2,No
+P0891,30,UK,Android,Organic,Yes,12,7.6,5,Completed,Not Completed,Completed,8,9,2,Yes,Yes,Yes,1,2.41,No
+P0892,35,US,Android,Social,Yes,12,16.4,10,Completed,Completed,Completed,6,17,4,Yes,Yes,No,1,3.62,No
+P0893,32,India,iOS,Paid Ads,Yes,10,22.1,5,Completed,Not Completed,Completed,7,11,6,Yes,No,No,0,0.0,No
+P0894,21,India,Android,Social,Yes,6,19.4,4,Completed,Completed,Completed,4,8,5,No,No,No,0,0.0,Yes
+P0895,32,UK,Android,Organic,Yes,12,14.3,10,Completed,Not Completed,Completed,7,17,4,Yes,No,No,0,0.0,Yes
+P0896,39,Germany,Android,Social,No,7,15.3,4,Not Completed,Not Completed,Not Completed,3,6,6,No,No,No,0,0.0,Yes
+P0897,19,UK,Android,Paid Ads,No,11,15.1,6,Not Completed,Not Completed,Not Completed,5,10,4,No,No,No,1,8.32,Yes
+P0898,32,US,iOS,Paid Ads,Yes,5,20.0,7,Completed,Completed,Completed,2,13,4,Yes,Yes,No,2,4.63,No
+P0899,25,UK,Android,Organic,No,8,35.7,8,Completed,Not Completed,Not Completed,5,14,6,Yes,No,No,0,0.0,Yes
+P0900,25,US,iOS,Paid Ads,No,12,22.5,4,Completed,Not Completed,Not Completed,8,7,4,Yes,No,No,0,0.0,Yes
+P0901,34,India,iOS,Organic,No,11,30.3,6,Not Completed,Not Completed,Not Completed,6,10,7,Yes,Yes,No,1,8.28,Yes
+P0902,29,US,Android,Organic,Yes,8,25.5,2,Completed,Completed,Completed,3,6,7,Yes,No,No,0,0.0,No
+P0903,36,Germany,iOS,Referral,Yes,11,29.8,9,Completed,Completed,Completed,4,16,6,Yes,No,No,0,0.0,Yes
+P0904,27,India,Android,Organic,No,9,5.0,6,Not Completed,Not Completed,Not Completed,6,13,4,No,No,No,3,15.35,Yes
+P0905,26,UK,iOS,Organic,Yes,4,19.9,3,Completed,Completed,Not Completed,1,7,5,Yes,Yes,No,0,0.0,Yes
+P0906,22,India,Android,Organic,Yes,8,31.1,7,Completed,Completed,Completed,5,8,5,Yes,No,No,0,0.0,Yes
+P0907,23,US,iOS,Referral,Yes,7,18.0,7,Completed,Completed,Completed,3,17,5,Yes,No,No,1,15.77,No
+P0908,37,India,Android,Paid Ads,Yes,9,34.3,6,Completed,Completed,Not Completed,4,11,6,Yes,Yes,Yes,0,0.0,No
+P0909,19,US,Android,Paid Ads,Yes,10,32.4,7,Completed,Not Completed,Completed,6,12,6,Yes,Yes,Yes,0,0.0,No
+P0910,30,UK,iOS,Paid Ads,Yes,11,18.7,5,Completed,Completed,Completed,3,9,8,Yes,Yes,No,1,14.29,No
+P0911,23,India,iOS,Organic,Yes,13,18.5,8,Completed,Not Completed,Completed,5,13,4,Yes,Yes,Yes,2,25.87,No
+P0912,22,UK,Android,Social,No,11,14.9,4,Not Completed,Not Completed,Not Completed,7,6,9,No,No,No,1,17.51,No
+P0913,18,Canada,Android,Social,No,8,17.6,1,Not Completed,Not Completed,Not Completed,5,5,11,Yes,Yes,No,1,9.74,Yes
+P0914,38,Germany,iOS,Organic,Yes,8,13.4,6,Completed,Completed,Completed,5,11,5,Yes,Yes,No,0,0.0,No
+P0915,39,India,iOS,Social,No,14,25.0,3,Not Completed,Not Completed,Not Completed,8,6,5,Yes,No,No,1,12.34,Yes
+P0916,38,US,iOS,Referral,Yes,9,11.8,6,Completed,Completed,Completed,2,6,5,Yes,No,No,2,38.52,No
+P0917,23,India,iOS,Organic,Yes,14,26.2,10,Completed,Completed,Completed,5,17,2,Yes,Yes,Yes,0,0.0,No
+P0918,23,Germany,iOS,Organic,No,6,26.4,2,Not Completed,Not Completed,Not Completed,3,3,4,No,No,No,2,12.65,No
+P0919,40,Germany,iOS,Organic,No,8,10.4,6,Not Completed,Not Completed,Not Completed,3,10,6,Yes,No,No,0,0.0,Yes
+P0920,33,US,Android,Organic,No,10,32.8,6,Not Completed,Not Completed,Not Completed,4,11,3,Yes,No,No,1,15.79,No
+P0921,21,Canada,Android,Referral,Yes,4,25.6,4,Completed,Completed,Completed,2,7,6,Yes,No,No,0,0.0,No
+P0922,28,US,iOS,Social,No,12,27.2,5,Not Completed,Not Completed,Not Completed,3,9,6,Yes,No,No,2,12.61,Yes
+P0923,40,US,iOS,Social,Yes,6,16.7,5,Completed,Completed,Completed,3,10,2,Yes,Yes,No,1,13.67,Yes
+P0924,26,India,Android,Paid Ads,Yes,7,26.4,7,Completed,Completed,Completed,2,11,2,No,No,No,0,0.0,No
+P0925,40,UK,Android,Organic,No,9,29.9,9,Not Completed,Not Completed,Not Completed,3,13,7,No,No,No,1,5.07,Yes
+P0926,20,India,iOS,Social,Yes,5,21.3,4,Completed,Completed,Not Completed,2,5,7,Yes,No,No,2,18.69,Yes
+P0927,36,Canada,Android,Social,Yes,6,36.0,5,Completed,Completed,Completed,4,10,5,Yes,Yes,Yes,1,8.4,No
+P0928,25,Canada,Android,Social,No,16,22.3,6,Not Completed,Not Completed,Not Completed,5,10,4,Yes,Yes,Yes,2,16.5,No
+P0929,22,UK,Android,Referral,Yes,5,30.0,2,Completed,Completed,Completed,2,2,3,No,No,No,0,0.0,Yes
+P0930,21,India,Android,Paid Ads,Yes,6,24.1,8,Completed,Not Completed,Completed,3,16,5,Yes,No,No,0,0.0,Yes
+P0931,23,India,Android,Social,Yes,15,26.1,2,Completed,Completed,Completed,5,6,2,Yes,Yes,Yes,0,0.0,No
+P0932,19,India,Android,Paid Ads,Yes,6,10.3,5,Completed,Completed,Completed,3,7,5,Yes,Yes,No,1,9.45,No
+P0933,37,US,Android,Organic,No,13,24.6,12,Not Completed,Not Completed,Not Completed,9,19,6,Yes,Yes,No,0,0.0,No
+P0934,28,India,iOS,Organic,Yes,14,16.9,7,Completed,Completed,Completed,7,15,7,Yes,Yes,Yes,0,0.0,No
+P0935,21,Germany,Android,Organic,Yes,6,16.1,5,Completed,Completed,Completed,2,9,6,No,No,No,1,3.25,Yes
+P0936,32,US,iOS,Organic,No,7,34.2,6,Not Completed,Not Completed,Not Completed,4,10,4,No,No,No,0,0.0,Yes
+P0937,23,India,iOS,Social,Yes,9,20.5,9,Completed,Completed,Completed,5,17,3,Yes,Yes,No,1,7.96,No
+P0938,39,US,Android,Paid Ads,Yes,9,15.0,1,Completed,Not Completed,Completed,2,3,4,Yes,Yes,Yes,1,8.31,No
+P0939,34,US,iOS,Referral,No,7,19.5,9,Not Completed,Not Completed,Not Completed,2,18,4,No,No,No,0,0.0,No
+P0940,23,US,Android,Social,Yes,4,12.9,7,Completed,Completed,Completed,1,12,12,No,No,No,0,0.0,Yes
+P0941,36,US,iOS,Social,Yes,11,32.0,4,Completed,Completed,Completed,3,7,6,Yes,No,No,1,15.61,Yes
+P0942,19,Germany,Android,Organic,Yes,7,17.1,3,Completed,Not Completed,Completed,3,7,4,Yes,Yes,No,0,0.0,No
+P0943,32,US,iOS,Organic,No,8,25.7,9,Not Completed,Not Completed,Not Completed,4,17,4,No,No,No,1,3.9,Yes
+P0944,28,Germany,iOS,Social,No,5,31.5,4,Completed,Not Completed,Not Completed,2,8,13,No,No,No,0,0.0,Yes
+P0945,25,Canada,Android,Social,Yes,8,18.5,4,Completed,Not Completed,Completed,5,8,6,Yes,Yes,Yes,4,73.46,No
+P0946,36,India,Android,Paid Ads,Yes,11,25.7,8,Completed,Not Completed,Completed,6,12,4,Yes,No,No,1,6.25,Yes
+P0947,30,Germany,iOS,Organic,No,5,14.8,6,Not Completed,Not Completed,Not Completed,3,9,5,No,No,No,0,0.0,Yes
+P0948,29,India,iOS,Organic,Yes,11,39.1,12,Completed,Completed,Completed,5,22,3,Yes,Yes,No,0,0.0,Yes
+P0949,22,Canada,Android,Social,Yes,8,28.6,7,Completed,Completed,Not Completed,2,15,4,Yes,Yes,No,0,0.0,Yes
+P0950,23,US,iOS,Organic,Yes,12,20.7,7,Completed,Completed,Completed,6,15,6,Yes,Yes,Yes,0,0.0,No
+P0951,39,Germany,Android,Organic,No,10,16.6,9,Not Completed,Not Completed,Not Completed,6,17,5,No,No,No,0,0.0,Yes
+P0952,21,Canada,iOS,Paid Ads,No,8,21.2,3,Not Completed,Not Completed,Not Completed,3,7,6,No,No,No,2,8.56,Yes
+P0953,36,Canada,Android,Organic,Yes,10,19.6,5,Completed,Completed,Completed,3,10,5,Yes,Yes,Yes,1,11.65,No
+P0954,37,Canada,iOS,Paid Ads,Yes,7,35.7,4,Completed,Completed,Completed,3,8,7,No,No,No,2,12.77,Yes
+P0955,18,India,Android,Organic,No,9,13.4,3,Not Completed,Not Completed,Not Completed,4,8,5,No,No,No,1,10.14,Yes
+P0956,37,India,Android,Organic,Yes,7,22.9,10,Completed,Completed,Not Completed,3,17,7,No,No,No,1,14.02,Yes
+P0957,34,US,Android,Social,No,9,21.9,4,Not Completed,Not Completed,Not Completed,3,9,5,No,No,No,3,53.36,Yes
+P0958,29,India,Android,Paid Ads,Yes,11,21.2,4,Completed,Not Completed,Completed,4,10,4,No,No,No,2,9.95,Yes
+P0959,32,UK,Android,Social,Yes,10,21.2,11,Completed,Completed,Completed,6,16,7,Yes,Yes,Yes,0,0.0,No
+P0960,18,India,Android,Paid Ads,Yes,8,21.2,6,Completed,Completed,Completed,3,13,4,Yes,No,No,1,9.02,No
+P0961,31,Germany,iOS,Organic,Yes,14,28.1,6,Completed,Completed,Completed,7,11,4,Yes,Yes,No,1,17.19,Yes
+P0962,23,US,Android,Paid Ads,No,10,26.3,1,Not Completed,Not Completed,Not Completed,5,6,5,Yes,No,No,0,0.0,Yes
+P0963,22,Canada,Android,Organic,Yes,11,24.9,2,Completed,Completed,Completed,5,8,1,Yes,No,No,1,17.52,Yes
+P0964,28,India,Android,Paid Ads,No,8,5.0,2,Not Completed,Not Completed,Not Completed,3,3,7,No,No,No,0,0.0,Yes
+P0965,21,Canada,Android,Social,Yes,10,24.1,6,Completed,Completed,Completed,5,11,1,Yes,Yes,Yes,0,0.0,No
+P0966,30,Germany,Android,Referral,Yes,8,10.4,4,Completed,Completed,Completed,2,4,5,Yes,Yes,Yes,1,7.63,No
+P0967,28,US,Android,Social,Yes,10,26.5,6,Completed,Completed,Completed,4,10,5,Yes,No,No,1,19.44,No
+P0968,20,US,Android,Organic,Yes,11,32.3,10,Completed,Completed,Completed,6,18,4,Yes,Yes,Yes,1,16.42,No
+P0969,18,UK,Android,Organic,No,7,15.5,6,Not Completed,Not Completed,Not Completed,2,13,4,No,No,No,0,0.0,Yes
+P0970,23,India,Android,Paid Ads,Yes,7,20.2,5,Completed,Completed,Not Completed,3,10,5,No,No,No,1,5.0,Yes
+P0971,35,US,iOS,Social,Yes,2,17.8,9,Completed,Not Completed,Completed,1,16,7,No,No,No,0,0.0,Yes
+P0972,27,US,Android,Paid Ads,Yes,11,30.6,5,Completed,Completed,Not Completed,3,8,1,Yes,Yes,Yes,0,0.0,No
+P0973,22,India,Android,Organic,Yes,6,22.7,4,Completed,Completed,Completed,2,8,8,No,No,No,0,0.0,Yes
+P0974,40,US,iOS,Organic,Yes,14,34.1,7,Completed,Completed,Completed,10,11,3,Yes,Yes,Yes,1,18.49,No
+P0975,27,India,Android,Organic,No,14,24.9,8,Completed,Not Completed,Not Completed,6,15,4,No,No,No,2,8.51,Yes
+P0976,29,India,iOS,Referral,Yes,12,23.7,2,Completed,Completed,Completed,5,8,4,Yes,Yes,Yes,1,19.14,No
+P0977,19,India,Android,Paid Ads,Yes,10,22.5,3,Completed,Completed,Completed,5,6,6,Yes,Yes,No,2,30.83,Yes
+P0978,30,Germany,iOS,Referral,Yes,8,27.7,8,Completed,Completed,Completed,4,11,6,Yes,Yes,Yes,0,0.0,No
+P0979,25,US,iOS,Organic,No,7,9.8,6,Not Completed,Not Completed,Not Completed,5,11,3,Yes,No,No,0,0.0,No
+P0980,19,Germany,Android,Paid Ads,Yes,10,22.6,5,Completed,Completed,Completed,6,11,3,Yes,Yes,Yes,3,40.75,No
+P0981,37,US,iOS,Paid Ads,Yes,9,21.5,5,Completed,Completed,Completed,5,8,2,Yes,No,No,0,0.0,No
+P0982,18,India,Android,Organic,Yes,7,27.1,2,Completed,Completed,Completed,5,7,3,Yes,No,No,2,37.08,Yes
+P0983,22,US,Android,Paid Ads,Yes,11,20.7,7,Completed,Completed,Not Completed,4,11,5,Yes,Yes,No,0,0.0,Yes
+P0984,26,US,iOS,Referral,Yes,10,14.7,4,Completed,Not Completed,Completed,5,6,6,Yes,No,No,1,11.73,No
+P0985,34,India,iOS,Referral,Yes,8,22.1,12,Completed,Completed,Completed,5,16,6,Yes,Yes,No,0,0.0,No
+P0986,26,US,Android,Paid Ads,No,11,14.4,7,Not Completed,Not Completed,Not Completed,6,13,6,No,No,No,0,0.0,Yes
+P0987,28,India,Android,Organic,Yes,9,8.5,10,Completed,Completed,Completed,6,21,5,Yes,Yes,Yes,1,17.29,No
+P0988,32,US,Android,Organic,No,7,27.1,6,Not Completed,Not Completed,Not Completed,2,12,5,No,No,No,0,0.0,Yes
+P0989,23,UK,Android,Referral,Yes,8,26.1,9,Completed,Completed,Completed,4,14,6,No,No,No,2,37.09,Yes
+P0990,40,India,iOS,Organic,Yes,11,25.3,6,Completed,Completed,Completed,8,12,6,Yes,Yes,Yes,1,3.22,No
+P0991,20,India,Android,Paid Ads,Yes,6,31.1,11,Completed,Completed,Completed,3,20,5,Yes,Yes,No,1,12.51,No
+P0992,34,Canada,Android,Paid Ads,Yes,10,17.3,9,Completed,Completed,Not Completed,6,18,6,Yes,Yes,No,0,0.0,No
+P0993,22,US,Android,Paid Ads,No,6,12.0,6,Not Completed,Not Completed,Not Completed,2,9,6,Yes,No,No,0,0.0,Yes
+P0994,29,India,Android,Referral,Yes,9,21.5,10,Completed,Completed,Completed,5,20,6,Yes,Yes,Yes,2,20.56,No
+P0995,35,Germany,Android,Organic,Yes,5,19.6,5,Completed,Completed,Completed,3,10,4,No,No,No,3,51.22,Yes
+P0996,31,India,iOS,Organic,Yes,8,16.1,7,Completed,Not Completed,Not Completed,3,16,7,Yes,No,No,1,7.73,Yes
+P0997,38,UK,iOS,Organic,No,6,21.4,7,Not Completed,Not Completed,Not Completed,2,13,6,No,No,No,1,10.33,Yes
+P0998,28,Germany,iOS,Social,Yes,17,17.7,8,Completed,Completed,Completed,4,15,3,Yes,No,No,1,5.61,No
+P0999,26,India,Android,Organic,No,3,9.1,2,Not Completed,Not Completed,Not Completed,2,3,7,No,No,No,2,13.06,Yes
+P1000,19,India,iOS,Organic,Yes,9,18.9,8,Completed,Not Completed,Completed,5,16,4,Yes,Yes,Yes,0,0.0,No
